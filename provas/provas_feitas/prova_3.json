@@ -1,0 +1,724 @@
+{
+  "basicos": {
+    "titulo": "📘 PARTE I – CONHECIMENTOS BÁSICOS",
+    "texto": {
+      "titulo": "Redes sociais, afeto e a estética da aceitação",
+      "linhas": [
+        "1. No cenário digital contemporâneo, o valor da privacidade vem sendo progressivamente relativizado em nome da conveniência e da conectividade.",
+        "2. A adesão acrítica a plataformas tecnológicas transforma hábitos cotidianos em dados, e dados em ativos econômicos.",
+        "3. A vigilância deixou de ser uma exceção estatal para se tornar um modelo de negócio.",
+        "4. Ferramentas que prometem liberdade operam com algoritmos que filtram, categorizam e antecipam o comportamento humano.",
+        "5. O resultado é a construção de uma subjetividade calculada, que interage com conteúdos moldados por modelos preditivos.",
+        "6. Ao mesmo tempo, o controle social deixa de ser centralizado e passa a ser distribuído em múltiplas camadas tecnológicas.",
+        "7. O sujeito digital é permanentemente observado e, ao mesmo tempo, convertido em observador compulsório.",
+        "8. A autonomia individual é condicionada por escolhas moldadas por sistemas invisíveis, muitas vezes ininteligíveis até para seus criadores.",
+        "9. Sob o argumento da personalização, ocorre uma erosão silenciosa da pluralidade e da espontaneidade.",
+        "10. A transparência, ideal democrático, é distorcida quando aplicada assimetricamente: exige-se que o cidadão se revele, mas não se oferece clareza sobre o funcionamento das máquinas que o analisam.",
+        "11. Essa lógica inverte a razão da publicidade dos atos em sociedades abertas.",
+        "12. O que se esconde, nesse contexto, são as estruturas de poder algorítmico que operam de forma opaca, silenciosa e eficaz.",
+        "13. A desinformação é, muitas vezes, um subproduto dessa arquitetura que privilegia o engajamento à veracidade.",
+        "14. A responsabilização por danos digitais exige novas formas de regulação e participação.",
+        "15. O direito à invisibilidade deve ser repensado como uma nova dimensão dos direitos fundamentais.",
+        "16. Em sociedades hiperconectadas, escolher o anonimato passa a ser tão importante quanto garantir o acesso.",
+        "17. Não se trata de negar a tecnologia, mas de domesticar seu uso com base em princípios de justiça, equidade e liberdade.",
+        "18. O consentimento informado, a rastreabilidade dos algoritmos e a auditabilidade das decisões automatizadas devem integrar qualquer projeto tecnológico legítimo.",
+        "19. Mais do que proteção de dados, é preciso garantir a proteção da dignidade digital.",
+        "20. A opacidade tecnológica não pode se sobrepor à transparência democrática.",
+        "21. Se os sistemas decidem sobre o indivíduo, o indivíduo deve poder compreender os critérios dessas decisões.",
+        "22. A educação digital crítica torna-se, portanto, um imperativo ético e político.",
+        "23. Precisamos formar não apenas usuários, mas cidadãos capazes de questionar os sistemas que os governam.",
+        "24. Esse movimento exige colaboração entre tecnólogos, juristas, educadores e gestores públicos.",
+        "25. O design ético não é um luxo, mas uma necessidade estrutural de qualquer sociedade que se queira livre.",
+        "26. Governos e empresas devem ser transparentes em suas intenções algorítmicas.",
+        "27. A democracia, para sobreviver no século XXI, precisa ser programável.",
+        "28. Isso implica em códigos abertos, regulação efetiva e responsabilização de sistemas automatizados.",
+        "29. Em última instância, a tecnologia deve estar a serviço do humano, e não o contrário.",
+        "30. O direito à invisibilidade é, hoje, uma expressão contemporânea do direito à liberdade."
+      ]
+    },
+    "temas": [
+      {
+        "nome": "PORTUGUÊS",
+        "questoes": [
+          {
+            "id": 1,
+            "enunciado": "Ao afirmar “Sob o argumento da personalização, ocorre uma erosão silenciosa da pluralidade e da espontaneidade”, o texto emprega voz passiva que atenua a responsabilidade do agente causador, configurando imprecisão conceitual.",
+            "gabarito": "E"
+          },
+          {
+            "id": 2,
+            "enunciado": "O advérbio “mais do que” em “mais do que proteção de dados, é preciso garantir a proteção da dignidade digital” funciona como comparativo reforçando ideia de prioridade ética, introduzindo nitidamente a ampliação do conceito de proteção.",
+            "gabarito": "C"
+          },
+          {
+            "id": 3,
+            "enunciado": "Em “A transparência, ideal democrático, é distorcida quando aplicada assimetricamente: exige-se que o cidadão se revele, mas não se oferece clareza...”, há emprego de dois pontos que introduzem exemplo explicativo, conferindo ênfase à ideia anterior.",
+            "gabarito": "C"
+          },
+          {
+            "id": 4,
+            "enunciado": "A frase “a vigilância deixou de ser uma exceção estatal para se tornar um modelo de negócio” utiliza estrutura paralela que reforça a ideia de transição gradual, apoiada em coesão semântica, ao contrastar dois conceitos sociopolíticos.",
+            "gabarito": "C"
+          },
+          {
+            "id": 5,
+            "enunciado": "A oração “Se os sistemas decidem sobre o indivíduo, o indivíduo deve poder compreender os critérios dessas decisões” estabelece relação condicional que reforça valor de reciprocidade entre ação e compreensão, estruturada sob a forma ‘se... então’.",
+            "gabarito": "C"
+          },
+          {
+            "id": 6,
+            "enunciado": "A expressão “o consentimento informado, a rastreabilidade dos algoritmos e a auditabilidade das decisões automatizadas” apresenta erro de paralelismo, por conter três elementos que exigiriam o uso de ‘e’ apenas antes do último elemento.",
+            "gabarito": "E"
+          },
+          {
+            "id": 7,
+            "enunciado": "No trecho “o sujeito digital é permanentemente observado e, ao mesmo tempo, convertido em observador compulsório”, o termo “compulsório” qualifica a ação como opcional e voluntária, o que altera o sentido pretendido pelo autor.",
+            "gabarito": "E"
+          },
+          {
+            "id": 8,
+            "enunciado": "No período “Governos e empresas devem ser transparentes em suas intenções algorítmicas”, o verbo “devem” expressa obrigação moral absoluta, o que torna a afirmação prescritiva e incompatível com o tom persuasivo moderado do texto.",
+            "gabarito": "E"
+          }
+        ]
+      },
+      {
+        "nome": "INFORMÁTICA",
+        "questoes": [
+          {
+            "id": 9,
+            "enunciado": "O comando netstat, presente em sistemas Windows e Unix-like, permite mapear conexões ativas, mas não oferece meios de identificar PID associado ao processo que originou a conexão, o que limita sua utilidade forense.",
+            "gabarito": "E"
+          },
+          {
+            "id": 10,
+            "enunciado": "Sistemas de arquivos como o NTFS e o ext4 mantêm metadados sobre arquivos, mas apenas o NTFS registra múltiplos carimbos de tempo (como MFT Entry Modified e File Modified), o que o torna superior para análise forense em sistemas Windows.",
+            "gabarito": "C"
+          },
+          {
+            "id": 11,
+            "enunciado": "Ao ativar a criptografia de disco completo com BitLocker, todos os setores do disco, inclusive os de boot e partição EFI, são criptografados, o que garante que nem o sistema operacional possa inicializar sem a chave correta.",
+            "gabarito": "C"
+          },
+          {
+            "id": 12,
+            "enunciado": "O uso de logs de eventos do Windows, como o Security.evtx, é fundamental em análises periciais, pois registra autenticações, alterações de permissões e falhas de acesso, desde que o auditing tenha sido previamente habilitado.",
+            "gabarito": "C"
+          },
+
+          {
+            "id": 13,
+            "enunciado": "O uso de algoritmos de hashing como SHA-256 garante integridade e autenticidade dos dados em um dispositivo, sendo suficiente, por si só, para validar autoria de arquivos em processos judiciais.",
+            "gabarito": "E"
+          },
+          {
+            "id": 14,
+            "enunciado": "O artefato conhecido como $LogFile, no NTFS, registra transações do sistema de arquivos que ainda não foram efetivadas, funcionando como uma área de staging que pode ser útil na reconstrução de ações recentes em investigações digitais.",
+            "gabarito": "C"
+          }
+        ]
+      },
+      {
+        "nome": "NOÇÕES DE DIREITO ADMINISTRATIVO",
+        "questoes": [
+          {
+            "id": 15,
+            "enunciado": "A responsabilização objetiva do Estado, prevista no art. 37, §6º da CF, fundamenta-se na teoria do risco administrativo, o que implica que basta a demonstração do dano e do nexo causal, mesmo na ausência de culpa do agente público.",
+            "gabarito": "C"
+          },
+
+          {
+            "id": 16,
+            "enunciado": "A descentralização administrativa transfere a titularidade e a execução de determinada função estatal, o que permite que a entidade descentralizada atue com autonomia, sem subordinação hierárquica ao ente criador.",
+            "gabarito": "C"
+          },
+          {
+            "id": 17,
+            "enunciado": "O princípio da continuidade do serviço público justifica, em casos excepcionais, a prestação compulsória de serviço público mesmo na ausência de contrato vigente, especialmente em setores essenciais como saúde e segurança.",
+            "gabarito": "C"
+          },
+          {
+            "id": 18,
+            "enunciado": "O poder de polícia da Administração Pública pode ser delegado integralmente a entidades privadas, desde que elas atuem sob regime de concessão e se comprometam com metas de fiscalização.",
+            "gabarito": "E"
+          },
+          {
+            "id": 19,
+            "enunciado": "A revogação de ato administrativo por conveniência é possível mesmo que haja direito adquirido, desde que a nova decisão seja mais vantajosa ao interesse público.",
+            "gabarito": "E"
+          },
+          {
+            "id": 20,
+            "enunciado": "A anulação de ato administrativo ilegal depende, obrigatoriamente, de provocação do Poder Judiciário, sendo vedado à própria Administração revisar atos que ela mesma praticou.",
+            "gabarito": "E"
+          }
+        ]
+      },
+      {
+        "nome": "NOÇÕES DE DIREITO CONSTITUCIONAL",
+        "questoes": [
+          {
+            "id": 21,
+            "enunciado": "O controle difuso de constitucionalidade pode gerar efeitos erga omnes e vinculantes desde que a decisão seja do STF, por maioria absoluta, e haja posterior deliberação do Senado Federal para suspensão da norma.",
+            "gabarito": "E"
+          },
+          {
+            "id": 22,
+            "enunciado": "Os direitos fundamentais de primeira geração, como a liberdade de expressão, podem ser relativizados por lei ordinária, bastando que o legislador justifique o interesse coletivo e a segurança nacional.",
+            "gabarito": "E"
+          },
+          {
+            "id": 23,
+            "enunciado": "A Constituição Federal permite que a União, os Estados e os Municípios estabeleçam simultaneamente normas sobre matérias de competência concorrente, aplicando-se, em caso de conflito, o critério da especialidade.",
+            "gabarito": "E"
+          },
+          {
+            "id": 24,
+            "enunciado": "A teoria dos poderes implícitos, adotada pelo STF, autoriza que o Congresso Nacional exerça determinadas competências não expressamente previstas no texto constitucional, desde que indispensáveis ao pleno exercício de suas funções típicas.",
+            "gabarito": "C"
+          },
+          {
+            "id": 25,
+            "enunciado": "O estado de defesa e o estado de sítio são medidas excepcionais previstas na Constituição para enfrentamento de graves crises institucionais, sendo o primeiro de decretação exclusiva do Congresso e o segundo de iniciativa do Presidente da República.",
+            "gabarito": "E"
+          },
+          {
+            "id": 26,
+            "enunciado": "O princípio da reserva legal, previsto no art. 5º, II, da CF, assegura que ninguém será obrigado a fazer ou deixar de fazer alguma coisa senão em virtude de lei, sendo essa uma cláusula pétrea segundo a jurisprudência do STF.",
+            "gabarito": "C"
+          }
+        ]
+      },
+      {
+        "nome": "NOÇÕES DE DIREITO PENAL E PROCESSO PENAL",
+        "questoes": [
+          {
+            "id": 27,
+            "enunciado": "O concurso de pessoas pressupõe pluralidade de agentes e de condutas, vínculo subjetivo entre os autores e identidade de infração penal, sendo que a teoria monista é a regra adotada pelo Código Penal brasileiro.",
+            "gabarito": "C"
+          },
+          {
+            "id": 28,
+            "enunciado": "O interrogatório do acusado, ainda que seja meio de defesa, pode ser realizado sem assistência de advogado quando o réu se recusa a constituir defensor, sendo suficiente a presença do membro do Ministério Público.",
+            "gabarito": "E"
+          },
+          {
+            "id": 29,
+            "enunciado": "O princípio da legalidade penal exige que nenhuma conduta seja considerada crime sem lei anterior que a defina, nem cominada pena sem prévia cominação legal, vedando inclusive a analogia in malam partem e a retroatividade de norma penal mais gravosa.",
+            "gabarito": "C"
+          },
+          {
+            "id": 30,
+            "enunciado": "A prova emprestada é admissível no processo penal brasileiro mesmo quando oriunda de processo civil sem contraditório, desde que tenha pertinência com o fato apurado e relevância probatória para o Ministério Público.",
+            "gabarito": "E"
+          },
+
+          {
+            "id": 31,
+            "enunciado": "A ação penal pública incondicionada deve ser promovida pelo Ministério Público, mesmo contra a vontade da vítima, salvo nos casos em que esta manifestar expressamente a renúncia à representação após a denúncia.",
+            "gabarito": "E"
+          },
+          {
+            "id": 32,
+            "enunciado": "A prisão em flagrante é modalidade de prisão cautelar que não depende de autorização judicial, mas sua legalidade e necessidade devem ser submetidas à análise do juiz em audiência de custódia, sob pena de relaxamento da prisão.",
+            "gabarito": "C"
+          }
+        ]
+      },
+      {
+        "nome": "NOÇÕES DE CRIMINALÍSTICA",
+        "questoes": [
+          {
+            "id": 34,
+            "enunciado": "A perícia de informática, ao lidar com dados voláteis, requer coleta imediata e uso de ferramentas forenses que garantam integridade e rastreabilidade, sendo inválida a análise realizada com software proprietário sem validação técnica ou documentação do processo.",
+            "gabarito": "C"
+          },
+          {
+            "id": 35,
+            "enunciado": "O princípio da permanência indica que, ao interagir com um ambiente, o autor de um crime inevitavelmente deixa e leva vestígios, o que fundamenta a atuação pericial na identificação de rastros materiais.",
+            "gabarito": "C"
+          },
+          {
+            "id": 36,
+            "enunciado": "A cadeia de custódia tem início no momento da identificação do vestígio e compreende todos os atos de controle, transferência e armazenamento até o descarte, sendo sua inobservância motivo suficiente para desconsideração probatória pela autoridade judicial.",
+            "gabarito": "C"
+          },
+          {
+            "id": 36,
+            "enunciado": "O exame de local de crime deve ser realizado exclusivamente com a preservação integral da cena, sendo vedada qualquer intervenção dos primeiros respondentes até a chegada da perícia técnica, sob pena de invalidação automática do laudo pericial.",
+            "gabarito": "E"
+          },
+          {
+            "id": 37,
+            "enunciado": "A lofoscopia é ramo da criminalística responsável por análise de padrões balísticos em projéteis, sendo o método mais indicado para associar vestígios balísticos a impressões digitais latentes.",
+            "gabarito": "E"
+          },
+
+          {
+            "id": 38,
+            "enunciado": "A identificação balística baseada na comparação de microestriamentos presentes em projéteis e estojos é procedimento padronizado, porém seus resultados são probabilísticos e dependem de variáveis como desgaste da arma e deformação do material analisado.",
+            "gabarito": "C"
+          }
+        ]
+      },
+
+      {
+        "nome": "DIREITOS HUMANOS",
+        "questoes": [
+          {
+            "id": 39,
+            "enunciado": "A Declaração Universal dos Direitos Humanos estabelece que os Estados podem restringir o direito de reunião pacífica sem qualquer justificativa fundada em interesse geral ou cláusulas de proteção à segurança nacional.",
+            "gabarito": "E"
+          },
+
+          {
+            "id": 40,
+            "enunciado": "O Brasil, como Estado‑parte do Pacto de San José da Costa Rica, está autorizado a adotar pena de morte por crimes considerados de extrema gravidade, caso a legislação interna preveja esse desfecho extremo, sem violar tratados internacionais.",
+            "gabarito": "E"
+          },
+          {
+            "id": 41,
+            "enunciado": "O direito ao devido processo legal engloba não apenas formalidades processuais, mas também a garantia de acesso à defesa técnica e à contestação das provas, sendo considerado elemento essencial para a legitimidade das decisões judiciais.",
+            "gabarito": "C"
+          },
+          {
+            "id": 42,
+            "enunciado": "A Convenção sobre os Direitos da Criança impõe obrigações que extrapolam o plano civil e político, cobrindo proteção contra exploração econômica, exploração sexual e acesso à educação básica gratuita.",
+            "gabarito": "C"
+          },
+          {
+            "id": 43,
+            "enunciado": "O princípio da dignidade da pessoa humana, previsto na Constituição Federal, serve como fundamento para assegurar políticas públicas que promovam não apenas a sobrevivência, mas também condições mínimas de acesso à educação e saúde.",
+            "gabarito": "C"
+          },
+          {
+            "id": 44,
+            "enunciado": "O princípio da não discriminação admite restrições aos direitos previstos em instrumentos internacionais com base em justificativas econômicas e políticas internas, desde que haja declaração formal do Estado‑parte.",
+            "gabarito": "E"
+          }
+        ]
+      },
+      {
+        "nome": "RACIOCÍNIO LÓGICO",
+        "questoes": [
+          {
+            "id": 45,
+            "enunciado": "A negação da afirmação universal “Todos os logs são armazenados com integridade” pode ser corretamente exposta como “Pelo menos um log não foi armazenado com integridade”, preservando o valor semântico lógico da negação.",
+            "gabarito": "C"
+          },
+          {
+            "id": 46,
+            "enunciado": "Em um sistema com 4 níveis de acesso, se cada usuário pode combinar níveis livremente, o número total de combinações possíveis corresponde a permutações de 4 elementos, não considerando repetição.",
+            "gabarito": "E"
+          },
+          {
+            "id": 47,
+            "enunciado": "Considere a proposição: “Se um arquivo foi alterado depois do descarte, então a prova digital é inconfiável”. Sua contrapositiva corretamente expressa que “Se a prova digital é confiável, então o arquivo não foi alterado depois do descarte”.",
+            "gabarito": "C"
+          },
+
+          {
+            "id": 48,
+            "enunciado": "Dado um conjunto com 8 elementos, o número de subconjuntos possíveis com exatamente dois elementos é dado por C(8,2), resultando em 28 combinações possíveis.",
+            "gabarito": "C"
+          },
+          {
+            "id": 49,
+            "enunciado": "A expressão lógica “¬(p ∨ q)” é logicamente equivalente a “¬p ∧ ¬q”, exemplificando a aplicação direta das leis de De Morgan em proposições compostas.",
+            "gabarito": "C"
+          },
+          {
+            "id": 50,
+            "enunciado": "A proposição “Se houver evidência digital, então houve coleta com cadeia de custódia íntegra” é logicamente equivalente à sua inversa “Se houve coleta com cadeia de custódia íntegra, então há evidência digital”.",
+            "gabarito": "E"
+          }
+        ]
+      }
+    ]
+  },
+  "especificos": {
+    "titulo": "📗 PARTE II – CONHECIMENTOS ESPECÍFICOS",
+    "temas": [
+      {
+        "nome": "ARQUITETURA DE COMPUTADORES",
+        "questoes": [
+          {
+            "id": 51,
+            "enunciado": "Caches inclusivos replicam dados entre níveis hierárquicos, o que impede a análise forense de dados voláteis, pois elimina a redundância necessária para reconstrução de instruções apagadas na RAM principal.",
+            "gabarito": "E"
+          },
+          {
+            "id": 52,
+            "enunciado": "Sistemas com arquitetura Harvard separam fisicamente dados e instruções, dificultando ataques baseados em injeção de código, e por consequência, também desafiam peritos a correlacionar fluxo de controle e variáveis comprometidas.",
+            "gabarito": "C"
+          },
+          {
+            "id": 53,
+            "enunciado": "Processadores modernos com suporte a pipelining têm execução estritamente sequencial, o que facilita rastrear bugs lógicos durante depuração, já que não há sobreposição de instruções no tempo de execução.",
+            "gabarito": "E"
+          },
+          {
+            "id": 54,
+            "enunciado": "Em sistemas multicore, o escalonamento simétrico de threads exige políticas de afinidade para garantir coerência de cache, sendo especialmente crítico em perícias de memória, onde inconsistências de L1 entre núcleos comprometem a validade da análise.",
+            "gabarito": "C"
+          },
+          {
+            "id": 55,
+            "enunciado": "Em arquiteturas superscalar, múltiplas instruções podem ser executadas simultaneamente por diferentes unidades funcionais, exigindo da perícia especial atenção à reconstrução de estados intermediários e à análise de out-of-order execution.",
+            "gabarito": "C"
+          },
+          {
+            "id": 56,
+            "enunciado": "A memória virtual mapeia endereços lógicos diretamente nos registros de propósito geral, o que dispensa o uso de tabelas de página ou TLBs na tradução de endereços em arquitaturas de 64 bits.",
+            "gabarito": "E"
+          },
+          {
+            "id": 57,
+            "enunciado": "Modificações em microcódigo não são visíveis ao sistema operacional, o que limita sua análise em investigações forenses de firmware, pois a manipulação da camada de controle é invisível às ferramentas usuais.",
+            "gabarito": "C"
+          },
+          {
+            "id": 58,
+            "enunciado": "A memória virtual mapeia endereços lógicos diretamente nos registros de propósito geral, o que dispensa o uso de tabelas de página ou TLBs na tradução de endereços em arquitaturas de 64 bits.",
+            "gabarito": "E"
+          },
+          {
+            "id": 59,
+            "enunciado": "Arquiteturas NUMA favorecem paralelismo com latência uniforme entre processador e memória, eliminando a necessidade de balanceamento de carga em ambientes com múltiplos soquetes físicos.",
+            "gabarito": "E"
+          },
+          {
+            "id": 60,
+            "enunciado": "O uso de instruções SIMD (Single Instruction, Multiple Data) permite a aplicação de uma única operação sobre diversos dados simultaneamente, sendo eficaz em tarefas como hashing forense, reconhecimento de padrões e processamento de imagens.",
+            "gabarito": "C"
+          },
+          {
+            "id": 61,
+            "enunciado": "Em arquiteturas ARM, o conjunto de instruções RISC oferece menor densidade de código, o que compromete a análise de instruções maliciosas embutidas em payloads pequenos.",
+            "gabarito": "E"
+          },
+          {
+            "id": 62,
+            "enunciado": "As instruções de salto condicional afetam diretamente o pipeline de execução e introduzem bolhas, impactando a análise temporal de execução em dump de instruções com interdependência lógica.",
+            "gabarito": "C"
+          },
+          {
+            "id": 63,
+            "enunciado": "Em arquiteturas com execução especulativa, como nos processadores modernos da Intel, falhas de previsão de desvio não impactam segurança, pois instruções especulativas são descartadas antes de qualquer efeito colateral visível.",
+            "gabarito": "E"
+          },
+          {
+            "id": 64,
+            "enunciado": "DMA (Direct Memory Access) permite transferência de dados entre memória e periféricos sem intervenção da CPU, o que pode deixar rastros em regiões da RAM úteis à perícia digital em análise de dispositivos removíveis.",
+            "gabarito": "C"
+          },
+          {
+            "id": 65,
+            "enunciado": "Arquiteturas MIPS são caracterizadas por decodificação complexa e execuções paralelas com múltiplas unidades, o que as torna inadequadas para uso didático em cursos de arquitetura e engenharia reversa.",
+            "gabarito": "E"
+          },
+          {
+            "id": 66,
+            "enunciado": "Em análise de sistemas embarcados, o acesso ao barramento JTAG pode ser essencial para extração de firmware, sendo uma via de investigação pericial mesmo quando a mídia principal está criptografada.",
+            "gabarito": "C"
+          },
+          {
+            "id": 67,
+            "enunciado": "Memórias SRAM são mais rápidas que DRAM, pois não precisam de refresh contínuo. Entretanto, sua instabilidade elétrica torna inviável sua utilização em registros internos de processadores modernos.",
+            "gabarito": "E"
+          }
+        ]
+      },
+      {
+        "nome": "BANCO DE DADOS",
+        "questoes": [
+          {
+            "id": 68,
+            "enunciado": "Logs de undo são utilizados nos SGBDs para garantir a durabilidade das transações ACID, permitindo que operações confirmadas antes de um crash sejam refeitas durante a recuperação do sistema.",
+            "gabarito": "E"
+          },
+          {
+            "id": 69,
+            "enunciado": "O modelo estrela, amplamente empregado em data warehouses, compromete a rastreabilidade histórica por não permitir armazenamento de múltiplas versões temporais nas tabelas de dimensão.",
+            "gabarito": "E"
+          },
+          {
+            "id": 70,
+            "enunciado": "Em bancos de dados NoSQL com replicação assíncrona, é possível que leituras em diferentes nós retornem valores divergentes de forma temporária, o que caracteriza o modelo de consistência eventual.",
+            "gabarito": "C"
+          },
+          {
+            "id": 71,
+            "enunciado": "SGBDs relacionais que implementam extensões procedurais, como PL/pgSQL e T-SQL, possibilitam a execução de loops e condicionais diretamente no banco, permitindo automatização de tarefas analíticas complexas.",
+            "gabarito": "C"
+          },
+          {
+            "id": 72,
+            "enunciado": "A utilização de índices compostos em colunas com alta seletividade melhora a performance de consultas, sendo indiferente a ordem das colunas na cláusula WHERE para fins de aproveitamento pelo otimizador.",
+            "gabarito": "E"
+          },
+          {
+            "id": 73,
+            "enunciado": "No modo WAL (write-ahead logging) do SQLite, transações não commitadas permanecem acessíveis após uma falha abrupta do sistema, dispensando a necessidade de backups regulares para integridade dos dados.",
+            "gabarito": "E"
+          },
+          {
+            "id": 74,
+            "enunciado": "Triggers em bancos relacionais podem ser utilizadas como mecanismo de auditoria, registrando alterações em tempo real, embora não garantam rastreabilidade completa em casos de rollbacks ou falhas de execução.",
+            "gabarito": "C"
+          },
+          {
+            "id": 75,
+            "enunciado": "A instrução EXPLAIN em SQL permite visualizar o plano de execução de uma consulta, detalhando o uso de índices e o custo estimado, mas não identifica de forma direta comandos maliciosos embutidos.",
+            "gabarito": "C"
+          },
+          {
+            "id": 76,
+            "enunciado": "Bancos de dados orientados a grafos tratam relacionamentos como elementos centrais, possibilitando análises forenses mais eficientes em cenários de redes complexas, como comunicações entre suspeitos.",
+            "gabarito": "C"
+          },
+          {
+            "id": 77,
+            "enunciado": "Índices do tipo B-Tree armazenam ponteiros para folhas ordenadas, o que inviabiliza qualquer tipo de recuperação de registros apagados sem a presença de backups integrais.",
+            "gabarito": "E"
+          },
+          {
+            "id": 78,
+            "enunciado": "Modelos lógicos de banco de dados descrevem a estrutura conceitual das informações, não sendo suficientes para estimar o desempenho de consultas, que depende da implementação física e estatísticas internas.",
+            "gabarito": "C"
+          },
+          {
+            "id": 79,
+            "enunciado": "Cubos OLAP permitem agregações multidimensionais e são úteis em auditorias e perícias, especialmente na detecção de padrões temporais recorrentes e anomalias em transações ao longo do tempo.",
+            "gabarito": "C"
+          }
+        ]
+      },
+      {
+        "nome": "REDES E SEGURANÇA",
+        "questoes": [
+          {
+            "id": 80,
+            "enunciado": "Segmentação por VLAN reduz o domínio de broadcast em redes locais e limita a propagação de tráfego, mas não elimina por completo os riscos de comunicação cruzada entre segmentos sem políticas adicionais de filtragem.",
+            "gabarito": "C"
+          },
+          {
+            "id": 81,
+            "enunciado": "Firewalls de filtragem de pacotes operam nas camadas 3 e 4 do modelo OSI e são capazes de inspecionar o conteúdo das mensagens para bloquear ataques baseados em assinaturas de payload.",
+            "gabarito": "E"
+          },
+          {
+            "id": 82,
+            "enunciado": "VPNs baseadas em SSL garantem confidencialidade das comunicações por meio de criptografia assimétrica e certificados digitais, mas podem ser vulneráveis se não houver validação adequada de certificados revogados.",
+            "gabarito": "C"
+          },
+          {
+            "id": 83,
+            "enunciado": "Sistemas de detecção de intrusão (IDS) operam de forma passiva, não interferindo no tráfego de rede, o que os torna insuficientes para impedir ataques em tempo real sem um componente adicional de resposta ativa.",
+            "gabarito": "C"
+          },
+          {
+            "id": 84,
+            "enunciado": "O simples armazenamento de logs de rede em servidores centralizados é suficiente para atender às exigências legais de rastreabilidade, não sendo necessária sua análise detalhada ou correlação temporal.",
+            "gabarito": "E"
+          },
+          {
+            "id": 85,
+            "enunciado": "A técnica de NAT oculta endereços internos de IP e contribui para a segurança da rede, sendo suficiente, por si só, para impedir ataques como ARP spoofing em redes locais.",
+            "gabarito": "E"
+          },
+          {
+            "id": 86,
+            "enunciado": "WPA3 introduz melhorias como o uso de OWE (Opportunistic Wireless Encryption) em redes abertas e Simultaneous Authentication of Equals (SAE), tornando obsoleta a necessidade de autenticação empresarial com EAP.",
+            "gabarito": "E"
+          },
+          {
+            "id": 87,
+            "enunciado": "Ferramentas como Nmap e Nessus são comumente utilizadas em testes de segurança autorizados, sendo sua utilização considerada legal quando realizada em ambientes controlados e com permissão explícita.",
+            "gabarito": "C"
+          },
+          {
+            "id": 88,
+            "enunciado": "Honeypots são recursos de segurança utilizados para atrair e registrar comportamentos maliciosos, porém não substituem soluções de defesa ativas, como firewalls e sistemas de prevenção de intrusão.",
+            "gabarito": "C"
+          },
+          {
+            "id": 89,
+            "enunciado": "Soluções de Network Access Control (NAC) realizam avaliação de conformidade antes de liberar o acesso à rede, podendo substituir integralmente firewalls em arquiteturas com segmentação lógica bem definida.",
+            "gabarito": "E"
+          },
+          {
+            "id": 90,
+            "enunciado": "DNSSEC adiciona autenticação de origem por meio de assinaturas digitais, mas sua implementação pode aumentar a carga de processamento na resolução de nomes devido à verificação criptográfica das respostas.",
+            "gabarito": "C"
+          },
+          {
+            "id": 91,
+            "enunciado": "A ocultação do SSID e o filtro por MAC address são práticas de segurança efetivas e suficientes para impedir acessos não autorizados a redes Wi-Fi, dispensando o uso de criptografia robusta como WPA2 ou WPA3.",
+            "gabarito": "E"
+          },
+          {
+            "id": 92,
+            "enunciado": "Soluções SIEM coletam e correlacionam eventos de segurança em tempo real, mas sua eficácia em contextos forenses depende de configurações específicas para garantir retenção, granularidade e integridade dos dados.",
+            "gabarito": "C"
+          },
+          {
+            "id": 93,
+            "enunciado": "A captura de pacotes em modo promíscuo em interfaces de rede pode comprometer o desempenho da análise se não for acompanhada por mecanismos de filtragem e amostragem adequados.",
+            "gabarito": "C"
+          },
+          {
+            "id": 94,
+            "enunciado": "Switches de camada 3 são imunes a ataques de VLAN hopping, como o double-tagging, por realizarem roteamento entre VLANs com isolamento físico de portas.",
+            "gabarito": "E"
+          },
+          {
+            "id": 95,
+            "enunciado": "Arquiteturas baseadas em zero-trust exigem verificação contínua de identidade e contexto, não sendo suficientes controles tradicionais como segmentação por VLAN e firewall perimetral para impedir movimentações laterais.",
+            "gabarito": "C"
+          },
+          {
+            "id": 96,
+            "enunciado": "Soluções de IPS (Intrusion Prevention System) operam em linha e bloqueiam tráfego malicioso em tempo real, eliminando a necessidade de sistemas IDS passivos em arquiteturas de defesa em profundidade.",
+            "gabarito": "E"
+          },
+          {
+            "id": 97,
+            "enunciado": "ARP spoofing consiste na falsificação de mensagens ARP com o objetivo de redirecionar tráfego de rede, sendo mitigado com técnicas como inspeção dinâmica de ARP, DHCP snooping e port security.",
+            "gabarito": "C"
+          },
+          {
+            "id": 98,
+            "enunciado": "Ataques de negação de serviço baseados em UDP flood podem ser contidos integralmente por mecanismos de qualidade de serviço (QoS), independentemente da infraestrutura de rede.",
+            "gabarito": "E"
+          },
+          {
+            "id": 99,
+            "enunciado": "Mecanismos como SPF, DKIM e DMARC contribuem para a autenticação e integridade de mensagens de e-mail, mas não são suficientes, isoladamente, para fins de análise forense confiável.",
+            "gabarito": "C"
+          }
+        ]
+      },
+      {
+        "nome": "DESENVOLVIMENTO DE SOFTWARE",
+        "questoes": [
+          {
+            "id": 100,
+            "enunciado": "Compiladores traduzem código-fonte para linguagem de máquina antes da execução, enquanto interpretadores executam instruções linha por linha em tempo real, não gerando código executável intermediário.",
+            "gabarito": "C"
+          },
+          {
+            "id": 101,
+            "enunciado": "Mocks em testes unitários têm como objetivo simular dependências externas, mas não garantem reprodução precisa de todos os comportamentos reais, podendo levar à cobertura enganosa de cenários críticos.",
+            "gabarito": "C"
+          },
+          {
+            "id": 102,
+            "enunciado": "O padrão Factory Method favorece a flexibilidade ao encapsular a criação de objetos, mas sua aplicação indiscriminada pode gerar sobrecarga desnecessária de abstrações e complexidade no projeto.",
+            "gabarito": "C"
+          },
+          {
+            "id": 103,
+            "enunciado": "Em arquiteturas baseadas em microserviços, o uso de comunicação assíncrona via eventos elimina completamente a necessidade de definição formal de contratos entre os serviços.",
+            "gabarito": "E"
+          },
+          {
+            "id": 104,
+            "enunciado": "Refatoração é uma prática de engenharia de software voltada à melhoria contínua do código, mantendo seu comportamento externo; interpretá-la como reescrita completa equivale a um equívoco conceitual.",
+            "gabarito": "C"
+          },
+          {
+            "id": 105,
+            "enunciado": "O padrão Observer permite que objetos sejam notificados de mudanças de estado em outros objetos, sendo aplicável exclusivamente a interfaces gráficas orientadas a eventos.",
+            "gabarito": "E"
+          },
+          {
+            "id": 106,
+            "enunciado": "GraphQL permite que o cliente especifique exatamente os dados que deseja receber, o que evita overfetching, mas não impede que consultas excessivamente complexas causem degradação de desempenho.",
+            "gabarito": "C"
+          },
+          {
+            "id": 107,
+            "enunciado": "Testes de integração substituem completamente os testes unitários, pois validam o funcionamento conjunto dos componentes do sistema em sua totalidade.",
+            "gabarito": "E"
+          },
+          {
+            "id": 108,
+            "enunciado": "A injeção de dependência reduz o acoplamento entre componentes e facilita a testabilidade, sendo um pilar fundamental em frameworks modernos como Spring e Angular.",
+            "gabarito": "C"
+          },
+          {
+            "id": 109,
+            "enunciado": "JSON Web Tokens (JWT) são autossuficientes e stateless, o que elimina a necessidade de mecanismos adicionais para expiração, revogação ou invalidação de sessões.",
+            "gabarito": "E"
+          },
+          {
+            "id": 110,
+            "enunciado": "O polimorfismo em orientação a objetos permite que métodos sejam sobrecarregados com o mesmo nome, mas argumentos distintos, o que caracteriza o polimorfismo em tempo de compilação.",
+            "gabarito": "C"
+          },
+          {
+            "id": 111,
+            "enunciado": "A fase de build em um pipeline de integração contínua é opcional quando os testes são bem-sucedidos, uma vez que não interfere no empacotamento dos artefatos de software.",
+            "gabarito": "E"
+          },
+          {
+            "id": 112,
+            "enunciado": "A programação funcional evita estados mutáveis, favorecendo a previsibilidade em sistemas concorrentes, embora não resolva, por si só, todos os problemas associados à sincronização e partição de dados.",
+            "gabarito": "C"
+          },
+          {
+            "id": 113,
+            "enunciado": "Versionamento semântico define mudanças com base na compatibilidade da API: alterações que quebram contratos devem elevar a versão major, enquanto novas funcionalidades sem quebra devem alterar apenas a versão minor.",
+            "gabarito": "C"
+          },
+          {
+            "id": 114,
+            "enunciado": "Análise estática de código identifica falhas de segurança e problemas de estilo antes da execução, mas não substitui testes dinâmicos nem revisões manuais por pares.",
+            "gabarito": "C"
+          },
+          {
+            "id": 115,
+            "enunciado": "Bibliotecas open-source com ampla adoção são intrinsecamente seguras, dispensando processos formais de auditoria em sistemas críticos ou ambientes regulados.",
+            "gabarito": "E"
+          }
+        ]
+      },
+      {
+        "nome": "GOVERNANÇA DE TI E LEGISLAÇÃO APLICADA. INSTRUÇÃO NORMATIVA SGD/ME Nº 94/2022",
+        "questoes": [
+          {
+            "id": 116,
+            "enunciado": "A Instrução Normativa SGD/ME nº 94/2022 orienta que os planos diretores de tecnologia da informação (PDTI) devem refletir não apenas metas operacionais, mas alinhar-se aos objetivos estratégicos institucionais, servindo como instrumento de governança e transparência pública.",
+            "gabarito": "C"
+          },
+          {
+            "id": 117,
+            "enunciado": "Segundo a referida instrução normativa, é facultativo à alta administração das organizações públicas validar o portfólio de projetos de TI, sendo essa atribuição exclusiva da unidade de planejamento estratégico ou da equipe técnica responsável pela execução.",
+            "gabarito": "E"
+          }
+        ]
+      },
+      {
+        "nome": "LICITAÇÕES À LUZ DA LEI 14.133/2021 E MARCO CIVIL DA INTERNET",
+        "questoes": [
+          {
+            "id": 118,
+            "enunciado": "A nova Lei de Licitações (Lei nº 14.133/2021) exige planejamento prévio com estudos técnicos preliminares e análise de riscos, mas não obriga a definição de indicadores de desempenho como condição para celebração contratual em aquisições de soluções de tecnologia da informação.",
+            "gabarito": "E"
+          },
+          {
+            "id": 119,
+            "enunciado": "O Marco Civil da Internet (Lei nº 12.965/2014) estabelece que a guarda dos registros de conexão deve respeitar princípios de inviolabilidade da intimidade e da privacidade, sendo obrigatória apenas mediante ordem judicial específica ou consentimento expresso do usuário.",
+            "gabarito": "C"
+          },
+          {
+            "id": 120,
+            "enunciado": "Nos contratos regidos pela Lei nº 14.133/2021, a administração pública está autorizada a exigir garantias contratuais, mas a lei veda expressamente a exigência cumulativa de garantias técnicas e financeiras, mesmo em projetos de alta complexidade tecnológica.",
+            "gabarito": "E"
+          }
+        ]
+      }
+    ]
+  }
+}

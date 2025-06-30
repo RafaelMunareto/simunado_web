@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>SIMUNADO</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" type="image/png" href="favicon.png" />
+</head>
+<body>
+  <div class="cabecalho">
+    <h1 id="titulo-prova"></h1>
+    <!-- <button id="gerar">Gerar Banco de Questões</button> -->
+    <!-- <div id="status"></div> -->
+  </div>
+  <!-- index.html: coloque acima de <div class="botoes-aba"> -->
+<div class="dropdown">
+    <select id="prova-select">
+      <option value="prova_1" selected>Prova 1</option>
+      <option value="prova_2">Prova 2</option>
+      <option value="prova_3">Prova 3</option>
+      <option value="prova_4">Prova 4</option>
+      <option value="prova_5">Prova 5</option> 
+      <!-- <option value="prova_6">Prova 6</option>
+      <option value="prova_7">Prova 7</option>
+      <option value="prova_8">Prova 8</option>
+      <option value="prova_9">Prova 9</option>
+      <option value="prova_10">Prova 10</option> -->
+    </select>
+  </div>
+  
+  <div class="botoes-aba">
+    <button class="btn-aba ativo" id="btn-basico">BÁSICO</button>
+    <button class="btn-aba" id="btn-especifico">ESPECÍFICO</button>
+  </div>
+
+  <div class="page-content">
+    <div class="jornal-layout">
+      <div class="coluna coluna-esquerda" id="coluna-esquerda"></div>
+      <div class="linha-divisoria"></div>
+      <div class="coluna coluna-direita" id="coluna-direita"></div>
+    </div>
+    <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+        <button id="btn-gabarito">Gerar Gabarito</button>
+        <button id="btn-limpar">Limpar Respostas</button>
+      </div>
+    
+    <div id="gabarito-result"></div>
+   
+  </div>
+  <script src="script.js"></script>
+  <script src="openai.js"></script>
+</body>
+</html>
