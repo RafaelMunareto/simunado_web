@@ -2,29 +2,18 @@
   "basicos": {
     "titulo": "📘 PARTE I – CONHECIMENTOS BÁSICOS",
     "texto": {
-      "titulo": "Redes sociais, afeto e a estética da aceitação",
+      "titulo": "Os Desafios Éticos da Inteligência Artificial na Era da Vigilância Digital",
       "linhas": [
-        "1. Em tempos de hiperconectividade, as redes sociais tornaram-se o principal palco de expressão das subjetividades contemporâneas.",
-        "2. A exposição constante de fragmentos da vida cotidiana, cuidadosamente editados e acompanhados de legendas inspiradoras, reflete um fenômeno sociocultural marcado pela busca incessante por validação digital.",
-        "3. Essa busca se manifesta não apenas nas imagens de viagens, conquistas profissionais ou relacionamentos idealizados, mas também na performatização do sofrimento, da fragilidade e da empatia.",
-        "4. O ‘like’, símbolo da aceitação instantânea, converte-se em termômetro emocional, regulando afetos, reforçando padrões e moldando comportamentos.",
-        "5. Contudo, esse cenário não é isento de contradições.",
-        "6. A promessa de conexão emocional ilimitada frequentemente esbarra em relações superficiais, mediadas por algoritmos que priorizam engajamento, não autenticidade.",
-        "7. A estética da aceitação exige curadoria permanente da própria imagem e emoções: rir com moderação, chorar com filtro, sofrer com poesia.",
-        "8. Nesse processo, experiências humanas genuínas tornam-se produtos simbólicos a serem exibidos, consumidos e descartados.",
-        "9. O espaço digital, antes tido como ambiente de liberdade expressiva, assume contornos normativos sutis: seja belo, seja coerente, seja positivo.",
-        "10. A divergência, a hesitação, o afeto ambíguo são rejeitados como ruídos na simulação de plenitude.",
-        "11. Essa estetização da experiência gera efeitos psicológicos relevantes.",
-        "12. A pressão por performar emoções socialmente desejáveis pode resultar em sofrimento psíquico, ansiedade e sensação de inadequação permanente.",
-        "13. Paradoxalmente, quanto maior a exposição, mais se acentua a percepção de isolamento.",
-        "14. Em meio a milhares de conexões, a escuta autêntica torna-se rara.",
-        "15. A comunicação é mediada por reações pré-formatadas — emojis, curtidas, comentários curtos — que nem sempre dão conta da complexidade dos afetos envolvidos.",
-        "16. A lógica do engajamento transforma a dor em conteúdo, a intimidade em espetáculo e o vínculo em algoritmo.",
-        "17. Há, contudo, resistência: movimentos digitais que reivindicam vulnerabilidade real, imperfeição e silêncio como formas legítimas de expressão.",
-        "18. São gestos que desafiam a lógica da visibilidade compulsória e propõem uma reconexão com a experiência humana não editada.",
-        "19. Em um mundo saturado de aparências, talvez o maior ato de coragem seja não performar — mas apenas ser.",
-        "20. Conclui-se que a digitalização dos afetos, quando orientada por métricas de popularidade, pode distorcer a vivência emocional, esvaziando-a de sua potência transformadora.",
-        "21. É urgente repensar o modo como habitamos as redes, não para rejeitá-las, mas para que sirvam ao humano, e não o contrário."
+        " No contexto contemporâneo, a expansão acelerada da inteligência artificial transformou profundamente as relações entre indivíduos, empresas e governos.",
+        " Plataformas digitais integram algoritmos sofisticados capazes de analisar grandes volumes de dados em tempo real, potencializando mecanismos de vigilância e controle social.",
+        " Essa evolução tecnológica, embora proporcione avanços em eficiência e personalização de serviços, levanta questões éticas complexas relacionadas à autonomia individual e à proteção da privacidade.",
+        " A coleta massiva de informações pessoais, frequentemente realizada sem o devido consentimento informado, coloca em xeque princípios fundamentais do Estado Democrático de Direito.",
+        " Além disso, a opacidade dos sistemas algorítmicos dificulta a identificação de responsabilidades e a contestação de decisões automatizadas que impactam direitos essenciais.",
+        " Alguns especialistas sustentam que a adoção indiscriminada de soluções baseadas em IA pode perpetuar desigualdades históricas e reproduzir preconceitos embutidos nos conjuntos de dados.",
+        " Outros, porém, argumentam que a regulação criteriosa e a transparência operacional podem mitigar riscos e potencializar benefícios sociais e econômicos significativos.",
+        " Nesse cenário, a sociedade se vê diante do desafio de equilibrar inovação tecnológica e preservação de garantias fundamentais, evitando retrocessos civilizatórios.",
+        " A discussão sobre limites éticos da inteligência artificial envolve múltiplos campos, como o direito, a filosofia e a ciência da computação, exigindo abordagens interdisciplinares.",
+        " Urge, portanto, estabelecer marcos regulatórios robustos que assegurem a centralidade da dignidade humana frente ao poder crescente dos sistemas digitais autônomos."
       ]
     },
     "temas": [
@@ -33,42 +22,52 @@
         "questoes": [
           {
             "id": 1,
-            "enunciado": "Considerando o texto, julgue: ao afirmar que “a divergência, a hesitação, o afeto ambíguo são rejeitados como ruídos”, o autor descreve como, no ambiente digital, há padronização normativa de linguagem e emoções que coisifica a relação humana e inibe variações expressivas legítimas.",
-            "gabarito": "C"
+            "enunciado": "O termo 'opacidade', no quinto período, refere-se à clareza com que algoritmos comunicam seus critérios de funcionamento ao público em geral.",
+            "gabarito": "E"
           },
           {
             "id": 2,
-            "enunciado": "No trecho “queremos ser vistos, mas temos medo de ser descobertos”, observa-se emprego de antítese como recurso semântico que evidencia tensão entre o desejo de exposição e o receio do olhar alheio, reforçando ambivalência emocional contemporânea.",
+            "enunciado": "A substituição da forma verbal 'urge' por 'necessita' no último período preservaria o sentido original do texto e manteria a correção gramatical.",
             "gabarito": "C"
           },
           {
             "id": 3,
-            "enunciado": "Ao mencionar “em um mundo saturado de aparências, talvez o maior ato de coragem seja não performar”, o autor introduz conclusão normativa, deslocando-se do plano argumentativo para opinião subjetiva, frágil dentro do gênero dissertativo-argumentativo.",
+            "enunciado": "No sexto período, a expressão 'perpetuar desigualdades' implica a ideia de redução progressiva das assimetrias sociais mediante o uso intensivo da inteligência artificial.",
             "gabarito": "E"
           },
           {
             "id": 4,
-            "enunciado": "A expressão “com filtros, legendas e encenações” representa polissemia lexical que amplia o sentido de filtro para além do visual, estendendo a crítica ao nível discursivo e gestual das manifestações afetivas nas redes sociais.",
-            "gabarito": "E"
-          },
-          {
-            "id": 5,
-            "enunciado": "Ao classificar a comunicação digital como mediada por “reações pré-formatadas — emojis, curtidas, comentários curtos”, o autor adota linguagem conotativa para enfatizar a aridez emocional imposta pelos mecanismos da mídia digital, criticando perda do discurso profundo.",
+            "enunciado": "Infere-se do texto que, para alguns especialistas, a inteligência artificial pode acentuar desigualdades preexistentes e cristalizar estigmas, uma vez que reproduz padrões históricos de discriminação presentes nos dados.",
             "gabarito": "C"
           },
           {
+            "id": 5,
+            "enunciado": "O texto afirma que os sistemas baseados em IA necessariamente garantem maior transparência decisória e permitem o controle absoluto do cidadão sobre os seus dados pessoais.",
+            "gabarito": "E"
+          },
+          {
             "id": 6,
-            "enunciado": "Na frase “…é urgente repensar o modo como habitamos as redes, não para rejeitá-las, mas para que sirvam ao humano…”, o acento de crase em “ao humano” justifica-se pelo encontro da preposição exigida por 'servir' (a) com o artigo 'o' que acompanha o substantivo 'humano'.",
+            "enunciado": "A expressão 'Nesse cenário' no oitavo período estabelece uma relação de conclusão em relação aos argumentos que descrevem riscos e possibilidades associados à inteligência artificial.",
             "gabarito": "C"
           },
           {
             "id": 7,
-            "enunciado": "Em “experiências humanas genuínas tornam‑se produtos simbólicos…”, o hífen em 'tornam‑se' segue regra de verbos pronominais, devendo ser facultativamente mantido segundo a nova ortografia, mesmo com forma impessoal.",
-            "gabarito": "E"
+            "enunciado": "O uso de 'porém' no sétimo período introduz ideia de oposição ao argumento anterior que destaca riscos da adoção indiscriminada de soluções algorítmicas.",
+            "gabarito": "C"
           },
           {
             "id": 8,
-            "enunciado": "Na frase “A pressão por performar emoções socialmente desejáveis pode resultar em sofrimento psíquico…”, o verbo “resultar” exige complemento introduzido pela preposição “em”, estabelecendo regência correta e relação clara de causa-efeito.",
+            "enunciado": "O vocábulo 'marcos' na última linha retoma o sentido de fronteiras geográficas entre Estados-nação, sendo empregado em sentido literal.",
+            "gabarito": "E"
+          },
+          {
+            "id": 9,
+            "enunciado": "O uso da vírgula após 'Nesse cenário' no oitavo período é facultativo, podendo ser suprimido sem prejuízo à correção sintática do período.",
+            "gabarito": "C"
+          },
+          {
+            "id": 10,
+            "enunciado": "A expressão 'Estado Democrático de Direito' funciona como sujeito do verbo 'coloca', que aparece na quarta linha do texto.",
             "gabarito": "E"
           }
         ]
@@ -77,33 +76,23 @@
         "nome": "INFORMÁTICA",
         "questoes": [
           {
-            "id": 9,
-            "enunciado": "A arquitetura em camadas do modelo TCP/IP permite a abstração funcional entre protocolos e facilita a interoperabilidade de redes heterogêneas. No entanto, ao contrário do modelo OSI, ela não contempla explicitamente uma camada de apresentação, o que impacta na padronização de formatos de dados entre aplicações.",
-            "gabarito": "C"
-          },
-          {
-            "id": 10,
-            "enunciado": "Em ambientes corporativos que utilizam ferramentas do Microsoft 365, como o OneDrive e o Teams, a sincronização automática de arquivos em nuvem garante proteção contra perda de dados, eliminando a necessidade de backups periódicos ou estratégias de redundância locais.",
-            "gabarito": "E"
-          },
-          {
             "id": 11,
-            "enunciado": "O uso de múltiplos fatores de autenticação (MFA) aumenta significativamente a segurança no acesso a sistemas, combinando pelo menos dois elementos entre conhecimento (senha), posse (token) e inerência (biometria). Essa abordagem mitiga o impacto de ataques de phishing e roubo de credenciais.",
+            "enunciado": "O protocolo HTTPS utiliza criptografia simétrica e assimétrica em diferentes momentos da comunicação, garantindo autenticação e confidencialidade das informações trafegadas.",
             "gabarito": "C"
           },
           {
             "id": 12,
-            "enunciado": "Os keyloggers, por sua natureza furtiva e capacidade de operar em segundo plano, são facilmente detectados por antivírus convencionais. Eles não representam ameaça relevante em sistemas atualizados com firewall ativo e autenticação via login e senha complexa.",
+            "enunciado": "Os cookies de sessão permanecem armazenados de forma permanente no dispositivo do usuário, sendo recuperados automaticamente após o reinício do navegador.",
             "gabarito": "E"
           },
           {
             "id": 13,
-            "enunciado": "A linguagem Python, embora de alto nível, é frequentemente adotada em scripts de automação forense devido à sua sintaxe clara, bibliotecas especializadas como pandas e scikit-learn e compatibilidade com ferramentas de extração e análise de metadados, como exiftool.",
+            "enunciado": "A computação em nuvem caracteriza-se pela virtualização de recursos e pelo acesso sob demanda, permitindo escalabilidade e cobrança proporcional ao uso, conforme o modelo IaaS.",
             "gabarito": "C"
           },
           {
             "id": 14,
-            "enunciado": "No contexto da mineração de dados, os dados não estruturados, como textos livres e imagens, são tratados por meio de algoritmos supervisionados de aprendizado de máquina, que, por definição, não exigem rótulos de classificação pré-existentes para funcionarem corretamente.",
+            "enunciado": "O spyware é um tipo de malware projetado especificamente para criptografar arquivos e exigir resgate financeiro, sendo funcionalmente idêntico ao ransomware.",
             "gabarito": "E"
           }
         ]
@@ -113,139 +102,158 @@
         "questoes": [
           {
             "id": 15,
-            "enunciado": "A descentralização administrativa ocorre quando a Administração transfere competência para entidades próprias (autarquias, fundações) ou para pessoas jurídicas dotadas de personalidade independente (empresas públicas e sociedades de economia mista), mantendo vínculo jurídico, financeiro e hierárquico com a Administração direta, não significando perda de controle central.",
+            "enunciado": "De acordo com a LINDB, mudanças de interpretação administrativa que impliquem nova orientação devem ser devidamente fundamentadas e considerar seus efeitos práticos.",
             "gabarito": "C"
           },
           {
             "id": 16,
-            "enunciado": "O ato administrativo que afeta diretamente direitos individuais deve observar os requisitos de competência, forma, motivo, objeto e finalidade, sob pena de nulidade absoluta, sendo irrelevante sua disponibilização através de portais eletrônicos se faltar avaliação motivacional adequada.",
-            "gabarito": "C"
-          },
-          {
-            "id": 17,
-            "enunciado": "Os agentes públicos ocupantes de cargo, emprego ou função pública são regidos pelo regime jurídico da Lei 8.112/1990 somente se investidos em cargo público efetivo, excluindo-se dessa relação estatutária os detentores de mandato eletivo e os servidores celetistas, que possuem regime próprio.",
+            "enunciado": "A revogação de atos administrativos opera efeitos ex tunc, alcançando situações jurídicas já consolidadas e anulando todos os efeitos pretéritos do ato revogado.",
             "gabarito": "E"
           },
           {
+            "id": 17,
+            "enunciado": "A convalidação é admitida quando o vício for de competência ou forma, desde que inexista prejuízo ao interesse público ou direitos de terceiros.",
+            "gabarito": "C"
+          },
+          {
             "id": 18,
-            "enunciado": "O poder de polícia confere à Administração capacidade normativa, de fiscalização e de sanção, visando a restrição ou condicionamento de direitos em interesse da coletividade; sua atuação deve observar os princípios da razoabilidade e proporcionalidade, com poder-dever de motivar e garantir o contraditório quando possível.",
+            "enunciado": "O poder hierárquico faculta à Administração Pública organizar sua estrutura interna e controlar as atividades exercidas por agentes subordinados, inclusive aplicando sanções disciplinares.",
             "gabarito": "C"
           },
           {
             "id": 19,
-            "enunciado": "No que tange à licitação pública, nas hipóteses de dispensa e inexigibilidade, é exigível justificativa técnica e motivacional detalhada, com fundamento em lei, geralmente restrita a casos como: calamidade pública ou inviabilidade de competição, podendo ser formalizada por simples memorando interno.",
-            "gabarito": "E"
+            "enunciado": "A autotutela administrativa permite à Administração revogar atos discricionários e anular atos ilegais, observados o contraditório e a ampla defesa nos casos de atos que beneficiem terceiros.",
+            "gabarito": "C"
           },
           {
             "id": 20,
-            "enunciado": "A responsabilidade civil do Estado por omissão exige comprovação do dano, de nexo causal entre a atuação omissiva e o prejuízo, e deve ser afastada se restar demonstrado que o administrado contribuiu para o resultado, configurando causa atenuante ou excludente de responsabilidade.",
-            "gabarito": "C"
+            "enunciado": "Os atos administrativos discricionários são imunes a qualquer controle judicial, já que sua oportunidade e conveniência não podem ser examinadas pelo Poder Judiciário.",
+            "gabarito": "E"
+          },
+          {
+            "id": 21,
+            "enunciado": "O poder de polícia administrativa limita direitos individuais com fundamento exclusivo na conveniência política, dispensando previsão legal específica.",
+            "gabarito": "E"
           }
         ]
       },
-
       {
         "nome": "NOÇÕES DE DIREITO CONSTITUCIONAL",
         "questoes": [
           {
-            "id": 21,
-            "enunciado": "O direito à igualdade, previsto no art. 5º da CF, abrange tanto a igualdade material quanto formal, exigindo que o Estado adote ações afirmativas e políticas públicas específicas para grupos vulneráveis (mulheres, população negra, pessoas com deficiência), sem ferir o princípio da isonomia.",
-            "gabarito": "C"
-          },
-          {
             "id": 22,
-            "enunciado": "A cidadania política, prevista na Constituição, inclui o direito ao voto, elegibilidade e participação em partidos políticos, o que se estende igualmente a estrangeiros residentes há mais de dez anos no país, desde que inscritos no cadastro eleitoral e com domicílio eleitoral fixo.",
-            "gabarito": "E"
+            "enunciado": "A ação popular pode ser proposta por qualquer cidadão com o objetivo de anular ato lesivo ao patrimônio público, à moralidade administrativa ou ao meio ambiente.",
+            "gabarito": "C"
           },
           {
             "id": 23,
-            "enunciado": "A liberdade religiosa é garantida pelo constituinte, incluindo o direito de culto e suas manifestações públicas; no entanto, essa liberdade não pode se sobrepor à proteção de direitos fundamentais de terceiros, como a segurança coletiva e a saúde pública, em situações de choque real entre bens jurídicos.",
-            "gabarito": "C"
+            "enunciado": "A competência privativa da União para legislar sobre normas gerais impede que Estados exerçam competência suplementar em qualquer hipótese.",
+            "gabarito": "E"
           },
           {
             "id": 24,
-            "enunciado": "No presidencialismo adotado pela CF, o Presidente da República acumula chefia de Estado e chefia de governo, o que exige separação clara entre funções executivas e administrativas, impedindo que o Executivo exerça poder normativo em atos infralegais sem autorização do Congresso.",
+            "enunciado": "O direito de petição é prerrogativa exclusiva de cidadãos brasileiros natos, não se estendendo a estrangeiros residentes no País.",
             "gabarito": "E"
           },
           {
             "id": 25,
-            "enunciado": "A segurança pública, regida pelos princípios federativos, encontra-se organizada na CF em forma de cooperação entre União, Estados, Distrito Federal e Municípios, observados os papéis das polícias militar, civil, federal, além de órgãos de perícia, defesa social e política criminal integrados por dispositivos legais.",
+            "enunciado": "O princípio da dignidade da pessoa humana constitui fundamento da República Federativa do Brasil e orienta a interpretação dos direitos fundamentais previstos na Constituição.",
             "gabarito": "C"
           },
           {
             "id": 26,
-            "enunciado": "A seguridade social é composta por sistema único e descentralizado, abrangendo saúde, previdência e assistência social, mas opera exclusivamente por regime contributivo, de modo que trabalhadores informais ou sem renda não têm acesso aos seus benefícios sem vínculo empregatício formal.",
-            "gabarito": "E"
-          }
-        ]
-      },
-      {
-        "nome": "NOÇÕES DE DIREITO PENAL E PROCESSO PENAL",
-        "questoes": [
+            "enunciado": "Os tratados internacionais sobre direitos humanos aprovados com quórum qualificado podem adquirir status de emenda constitucional no ordenamento jurídico brasileiro.",
+            "gabarito": "C"
+          },
           {
             "id": 27,
-            "enunciado": "O princípio da legalidade penal, garantido no art. 5º, inciso XXXIX, da CF, determina que não há crime sem lei anterior que o defina, e tampouco pena sem prévia cominação legal, sendo vedada a analogia in malam partem tanto na criminalização quanto na aplicação de sanções.",
+            "enunciado": "O controle difuso de constitucionalidade permite que qualquer juiz ou tribunal declare a inconstitucionalidade de uma norma no julgamento de um caso concreto.",
             "gabarito": "C"
           },
           {
             "id": 28,
-            "enunciado": "A extraterritorialidade da lei penal brasileira pode ser aplicada independentemente de tratado internacional, sempre que ação ou omissão dolosa praticada fora do território nacional afetar bem jurídico protegido no Brasil, dispensando qualquer cooperação ou ato formal por parte do Estado estrangeiro.",
-            "gabarito": "E"
-          },
-          {
-            "id": 29,
-            "enunciado": "A tentativa é configurada quando o agente inicia a execução do crime mediante atos diretamente voltados à sua consumação, mas não a alcança por circunstâncias alheias à sua vontade; sua punibilidade está condicionada à análise da periculosidade concreta e pode ensejar diminuição de pena de um a dois terços.",
-            "gabarito": "C"
-          },
-          {
-            "id": 30,
-            "enunciado": "A ilicitude do fato praticado pode ser excluída unicamente pela legítima defesa, sendo vedadas causas de exclusão secundárias como estado de necessidade, estrito cumprimento do dever legal e exercício regular de direito, que não são previstas no Código Penal.",
-            "gabarito": "E"
-          },
-          {
-            "id": 31,
-            "enunciado": "No processo penal brasileiro, o inquérito policial é meio de investigação inquisitivo, sigiloso e escrito, com natureza meramente informativa, conduzido pela polícia judiciária, devendo respeitar as garantias fundamentais do investigado como ampla defesa, devido processo legal e licitude na coleta de provas.",
-            "gabarito": "C"
-          },
-          {
-            "id": 32,
-            "enunciado": "A cadeia de custódia abrange fases de coleta, guarda, transporte, análise e destinação de provas, sendo irrelevante a formalização documental dessas etapas se o laudo pericial for emitido com assinatura do perito, pois a preservação física e integridade são asseguradas pela simples expertise técnica.",
+            "enunciado": "Os direitos fundamentais não possuem aplicabilidade imediata, dependendo integralmente de regulamentação infraconstitucional para serem exercidos.",
             "gabarito": "E"
           }
         ]
       },
       {
-        "nome": "NOÇÕES DE CRIMINALÍSTICA",
+        "nome": "NOÇÕES DE DIREITO PENAL, PROCESSO PENAL E CRIMINALÍSTICA",
         "questoes": [
           {
+            "id": 29,
+            "enunciado": "O crime permanente caracteriza-se pela continuidade da situação típica, permitindo a prisão em flagrante enquanto persistir a permanência.",
+            "gabarito": "C"
+          },
+          {
+            "id": 30,
+            "enunciado": "A execução da pena restritiva de direitos prescinde do trânsito em julgado da condenação, podendo iniciar-se logo após a sentença condenatória de primeiro grau.",
+            "gabarito": "E"
+          },
+          {
+            "id": 31,
+            "enunciado": "O arrependimento posterior só pode ser reconhecido se a reparação do dano ocorrer até antes do recebimento da denúncia ou queixa.",
+            "gabarito": "C"
+          },
+          {
+            "id": 32,
+            "enunciado": "Nos crimes culposos, qualquer que seja a quantidade de pena aplicada, admite-se a substituição da pena privativa de liberdade por restritiva de direitos, salvo vedação legal expressa.",
+            "gabarito": "C"
+          },
+          {
             "id": 33,
-            "enunciado": "O princípio de Locard, segundo o qual todo contato deixa um vestígio, fundamenta a necessidade de isolamento e fixação detalhada do local de crime, sendo indispensável à reconstrução da dinâmica delitiva e à individualização do autor do fato, ainda que os vestígios sejam microscópicos ou latentes.",
+            "enunciado": "A interceptação telefônica somente é admissível quando a prova não puder ser feita por outros meios disponíveis, sendo indispensável a decisão judicial fundamentada.",
             "gabarito": "C"
           },
           {
             "id": 34,
-            "enunciado": "A coleta de vestígios em local de crime pode ser realizada de maneira sumária sempre que houver risco iminente de deterioração da cena, não sendo obrigatória a documentação fotográfica nem a formalização da cadeia de custódia quando se tratar de infrações de menor potencial ofensivo.",
+            "enunciado": "A prisão temporária pode ser decretada de ofício pelo juiz, sempre que entender conveniente para a investigação criminal.",
             "gabarito": "E"
           },
           {
             "id": 35,
-            "enunciado": "A tanatologia forense, como campo da criminalística, estuda os sinais e fases da morte, sendo fundamental para a estimativa do intervalo post mortem, inclusive por meio da cronotanatognose, que avalia fenômenos cadavéricos como rigidez, livores e putrefação.",
+            "enunciado": "O erro sobre elemento constitutivo do tipo penal exclui o dolo, mas poderá permitir a punição por crime culposo, se previsto em lei.",
             "gabarito": "C"
           },
           {
             "id": 36,
-            "enunciado": "O laudo pericial oficial pode prescindir de fundamentação científica explícita quando elaborado por peritos oficiais, pois o conhecimento tácito da autoridade técnica é suficiente para fins judiciais, nos termos do art. 159 do Código de Processo Penal.",
+            "enunciado": "Na cadeia de custódia, a quebra injustificada do lacre de invólucro contendo vestígios implica nulidade absoluta do exame pericial correspondente.",
             "gabarito": "E"
           },
           {
             "id": 37,
-            "enunciado": "A classificação dos vestígios contempla, entre outros, os biológicos, químicos e morfológicos, sendo os microvestígios relevantes especialmente em exames de balística, onde resíduos de disparo e fragmentos metálicos são fundamentais para a reconstituição do fato.",
+            "enunciado": "O local de crime deverá permanecer preservado até a chegada da perícia oficial, salvo situações em que houver necessidade de socorro imediato às vítimas ou segurança pública.",
             "gabarito": "C"
           },
           {
             "id": 38,
-            "enunciado": "A fotografia pericial pode ser dispensada nos exames de local, desde que haja testemunha presencial da coleta dos vestígios e a descrição textual seja considerada suficiente pelo perito para compor os autos, conforme jurisprudência consolidada do STJ.",
+            "enunciado": "A ausência de suspensão ou revogação do livramento condicional antes do término do período de prova impede a extinção da punibilidade pelo cumprimento integral da pena.",
+            "gabarito": "E"
+          },
+          {
+            "id": 39,
+            "enunciado": "Conforme o Código de Processo Penal, a decisão que rejeita a denúncia ou a queixa pode ser impugnada por recurso em sentido estrito.",
             "gabarito": "C"
+          },
+          {
+            "id": 40,
+            "enunciado": "A perícia oficial, nos casos previstos em lei, pode ser realizada por apenas um perito oficial, quando não for possível a designação de dois.",
+            "gabarito": "C"
+          },
+          {
+            "id": 41,
+            "enunciado": "A colaboração premiada pode ser celebrada com a vítima de infração penal, por ser instrumento destinado à obtenção de prova.",
+            "gabarito": "E"
+          },
+          {
+            "id": 42,
+            "enunciado": "O Supremo Tribunal Federal admite a execução provisória de medidas de segurança, desde que respeitado o devido processo legal e a ampla defesa.",
+            "gabarito": "E"
+          },
+          {
+            "id": 43,
+            "enunciado": "O crime de importunação sexual é considerado crime hediondo pela Lei nº 8.072/1990.",
+            "gabarito": "E"
           }
         ]
       },
@@ -253,33 +261,13 @@
         "nome": "DIREITOS HUMANOS",
         "questoes": [
           {
-            "id": 39,
-            "enunciado": "O Pacto Internacional dos Direitos Civis e Políticos estabelece garantias mínimas em processos penais, inclusive o direito à presunção de inocência, ao contraditório e à integridade física, aplicáveis a todos os acusados, independentemente da gravidade do crime.",
-            "gabarito": "C"
-          },
-          {
-            "id": 40,
-            "enunciado": "A Convenção sobre o Estatuto dos Refugiados de 1951 obriga os países signatários a fornecerem asilo a qualquer indivíduo que alegue temor subjetivo de perseguição, mesmo sem provas mínimas do risco, bastando declaração oral da vítima.",
-            "gabarito": "E"
-          },
-          {
-            "id": 41,
-            "enunciado": "A Lei nº 13.060/2014 e o Decreto nº 12.341/2024 regulam o uso proporcional da força por agentes de segurança pública, priorizando instrumentos de menor potencial ofensivo e exigindo formação técnica continuada sobre uso legítimo da força.",
-            "gabarito": "C"
-          },
-          {
-            "id": 42,
-            "enunciado": "A adesão do Brasil à Convenção Internacional contra o Desaparecimento Forçado de Pessoas implica a criminalização automática da conduta no ordenamento jurídico nacional, sem necessidade de legislação infraconstitucional específica.",
-            "gabarito": "E"
-          },
-          {
-            "id": 43,
-            "enunciado": "As Regras de Mandela, aprovadas pela ONU, estabelecem diretrizes mínimas sobre o tratamento de presos, incluindo acesso à saúde, contato com o mundo exterior e dignidade no cumprimento da pena, sendo parâmetro interpretativo para decisões judiciais.",
-            "gabarito": "C"
-          },
-          {
             "id": 44,
-            "enunciado": "As Nações Unidas reconhecem o uso ilimitado da força letal como legítimo nos casos de rebeliões em presídios, independentemente da presença de ameaça real, desde que autorizado por autoridade administrativa competente.",
+            "enunciado": "O Protocolo Facultativo à Convenção contra a Tortura estabelece a criação de mecanismos nacionais de prevenção, competentes para visitar locais de privação de liberdade, com o objetivo de fortalecer a proteção das pessoas privadas de liberdade contra tratamentos cruéis.",
+            "gabarito": "C"
+          },
+          {
+            "id": 45,
+            "enunciado": "De acordo com a Declaração Universal dos Direitos Humanos, somente os nacionais de um Estado gozam do direito de buscar asilo em caso de perseguição, não sendo esse direito estendido a estrangeiros ou apátridas.",
             "gabarito": "E"
           }
         ]
@@ -288,39 +276,35 @@
         "nome": "RACIOCÍNIO LÓGICO",
         "questoes": [
           {
-            "id": 45,
-            "enunciado": "A contrapositiva da proposição 'Se a cadeia de custódia não é mantida, então a prova pode ser invalidada' é logicamente equivalente a 'Se a prova não pode ser invalidada, então a cadeia de custódia foi mantida', preservando a validade lógica da inferência.",
-            "gabarito": "C"
-          },
-          {
             "id": 46,
-            "enunciado": "Considere a proposição 'Para que uma evidência seja válida, é necessário que haja logging automatizado e verificação por hash'. A ausência de qualquer desses elementos invalida a conjunção e, portanto, compromete logicamente a validade da prova digital.",
+            "enunciado": "A proposição (~P ∨ Q) é equivalente logicamente à proposição condicional 'Se P, então Q', constituindo uma implicação material entre P e Q.",
             "gabarito": "C"
           },
           {
             "id": 47,
-            "enunciado": "A proposição 'Todo procedimento forense válido exige documentação completa' é logicamente equivalente à negação de 'Existe ao menos um procedimento válido sem documentação', demonstrando aplicação da lógica dos quantificadores universais.",
-            "gabarito": "C"
+            "enunciado": "Se todos os contratos regulares são auditados e alguns contratos auditados apresentam inconsistências, então necessariamente alguns contratos regulares apresentam inconsistências.",
+            "gabarito": "E"
           },
           {
             "id": 48,
-            "enunciado": "A negação da proposição 'O perito coletou logs ou extraiu os hashes' é 'O perito não coletou logs ou não extraiu os hashes', conforme os princípios de negação de disjunção clássica da lógica formal.",
-            "gabarito": "E"
+            "enunciado": "A negação da proposição 'Se o projeto foi aprovado, então a execução será iniciada' corresponde logicamente à afirmação 'O projeto foi aprovado e a execução não será iniciada'.",
+            "gabarito": "C"
           },
           {
             "id": 49,
-            "enunciado": "O conjunto de logs L, com n elementos distintos, tem n subconjuntos distintos. Essa relação permite prever a quantidade de versões possíveis de reconstrução de eventos em análise forense digital.",
-            "gabarito": "E"
+            "enunciado": "Se P é verdadeiro e Q é falso, a proposição condicional (P → Q) assume valor lógico falso, dado que a implicação se torna insustentável nesses termos.",
+            "gabarito": "C"
           },
           {
             "id": 50,
-            "enunciado": "A implicação 'Se não há autenticação multifator, então a coleta pode ser impugnada' é logicamente equivalente à proposição 'Se a coleta não pode ser impugnada, então há autenticação multifator', conforme a equivalência das proposições condicionais.",
+            "enunciado": "Uma proposição composta com três variáveis proposicionais independentes possui quatro linhas em sua tabela-verdade, pois cada variável só pode assumir um valor por vez.",
             "gabarito": "E"
           }
         ]
       }
     ]
   },
+
   "especificos": {
     "titulo": "📗 CONHECIMENTOS ESPECÍFICOS",
     "temas": [
@@ -329,257 +313,249 @@
         "questoes": [
           {
             "id": 51,
-            "enunciado": "O paralelismo em nível de instrução (ILP) é explorado por técnicas como pipeline, execução fora de ordem e predição de desvio, permitindo aumento do throughput da CPU sem necessariamente elevar a frequência de clock, reduzindo gargalos na execução sequencial.",
+            "enunciado": "O conceito de multiprocessamento simétrico (SMP) refere-se a uma arquitetura em que múltiplos processadores compartilham igualmente a memória física e o sistema operacional distribui as tarefas de maneira dinâmica entre eles, otimizando a utilização de recursos.",
             "gabarito": "C"
           },
           {
             "id": 52,
-            "enunciado": "A memória cache L1, por sua proximidade com o núcleo de processamento, apresenta maior latência e menor velocidade que as memórias L2 e L3, sendo recomendada para armazenar grandes blocos de dados de acesso não preditivo.",
+            "enunciado": "Memórias do tipo DRAM são compostas por células de armazenamento que não requerem atualização periódica de carga elétrica, sendo consideradas ideais para caches de alta velocidade devido à sua baixa latência de acesso.",
             "gabarito": "E"
           },
           {
             "id": 53,
-            "enunciado": "O barramento de dados atua como meio de comunicação entre os diversos componentes da arquitetura computacional. A largura desse barramento influencia diretamente a quantidade de dados transferidos por ciclo de clock.",
+            "enunciado": "O barramento PCI Express utiliza uma arquitetura de comunicação baseada em canais seriais ponto a ponto, denominados lanes, que permitem escalabilidade de largura de banda conforme a quantidade de canais agregados.",
             "gabarito": "C"
           },
           {
             "id": 54,
-            "enunciado": "A arquitetura Harvard utiliza dois barramentos distintos para instruções e dados, o que permite acesso simultâneo a ambos e aumenta o desempenho em comparação ao modelo von Neumann tradicional, que compartilha o mesmo barramento.",
-            "gabarito": "C"
+            "enunciado": "Na hierarquia de memória, os registradores da CPU são tipicamente mais lentos que o cache L2, mas possuem maior capacidade de armazenamento, justificando sua utilização como intermediários de alta performance.",
+            "gabarito": "E"
           },
           {
             "id": 55,
-            "enunciado": "Em processadores modernos, a presença de múltiplos núcleos físicos elimina a necessidade de instruções de sincronização como semáforos e mutexes, pois o sistema operacional distribui as tarefas automaticamente de forma determinística.",
-            "gabarito": "E"
+            "enunciado": "Memórias EEPROM permitem operações de gravação e leitura elétricas repetidas, sendo aplicadas para armazenar firmware que pode ser atualizado sem remoção física do dispositivo.",
+            "gabarito": "C"
           },
           {
             "id": 56,
-            "enunciado": "O uso de memória virtual permite que programas acessem mais memória do que fisicamente disponível, mas sua implementação é irrelevante para a segurança, visto que não interfere em permissões de acesso a regiões de memória protegidas.",
-            "gabarito": "E"
+            "enunciado": "A técnica de branch prediction visa antecipar o fluxo de execução de instruções condicionais, reduzindo penalidades associadas a desvios e otimizando o uso de pipelines em processadores modernos.",
+            "gabarito": "C"
           },
           {
             "id": 57,
-            "enunciado": "A unidade de controle microprogramada utiliza uma ROM para armazenar instruções de controle internas, o que a torna mais flexível para alterações de projeto, embora geralmente apresente menor desempenho que a unidade de controle cabeada.",
-            "gabarito": "C"
-          },
-          {
-            "id": 58,
-            "enunciado": "As instruções RISC, por serem complexas, requerem múltiplos ciclos de clock para execução e dependem fortemente de decodificação microprogramada, o que compromete a performance em relação às instruções CISC de único ciclo.",
+            "enunciado": "Em processadores RISC, é comum encontrar instruções com formatos variáveis e execução multicíclo, características que favorecem alta densidade de codificação e redução de consumo energético.",
             "gabarito": "E"
           },
           {
-            "id": 59,
-            "enunciado": "Processadores com suporte a SIMD (Single Instruction Multiple Data) podem realizar operações vetoriais simultâneas em múltiplos dados, sendo amplamente utilizados em processamento gráfico, aprendizado de máquina e operações de criptografia.",
+            "id": 58,
+            "enunciado": "O controlador de DMA possibilita a movimentação direta de blocos de dados entre a memória principal e dispositivos de E/S, liberando a CPU de operações de transferência repetitivas e potencialmente onerosas.",
             "gabarito": "C"
           },
           {
+            "id": 59,
+            "enunciado": "O cache write-back realiza atualização imediata da memória principal sempre que um dado é gravado no cache, garantindo sincronismo contínuo entre ambas as cópias da informação.",
+            "gabarito": "E"
+          },
+          {
             "id": 60,
-            "enunciado": "O desempenho de sistemas com arquitetura NUMA (Non-Uniform Memory Access) depende da afinidade entre o processo e a região de memória. Se essa afinidade não for respeitada, há penalidades significativas de latência.",
+            "enunciado": "O pipeline hazard do tipo data hazard ocorre quando uma instrução depende de resultado ainda não produzido por outra etapa do pipeline, podendo ser mitigado por mecanismos como forwarding e stalls.",
             "gabarito": "C"
           },
           {
             "id": 61,
-            "enunciado": "Arquiteturas baseadas em VLIW (Very Long Instruction Word) distribuem dinamicamente as instruções entre múltiplas unidades funcionais durante o tempo de execução, delegando ao hardware toda responsabilidade de paralelismo.",
+            "enunciado": "O conceito de superscalaridade refere-se à execução sequencial de múltiplas instruções em uma única unidade funcional, caracterizando uma abordagem estritamente linear de processamento.",
             "gabarito": "E"
           },
           {
             "id": 62,
-            "enunciado": "A presença de instruções atômicas no conjunto ISA (Instruction Set Architecture) é fundamental para garantir operações críticas em sistemas concorrentes, como bloqueios, flags e controle de regiões críticas de memória compartilhada.",
+            "enunciado": "Em arquiteturas Harvard modificadas, pode haver áreas de memória comuns compartilhadas por dados e instruções, permitindo maior flexibilidade no uso de espaço de armazenamento.",
             "gabarito": "C"
           },
           {
             "id": 63,
-            "enunciado": "A utilização de registradores na execução de instruções proporciona maior desempenho em relação à memória RAM, devido à menor latência de acesso e maior frequência de operação, característica explorada pelas arquiteturas RISC.",
-            "gabarito": "C"
-          },
-          {
-            "id": 64,
-            "enunciado": "A lógica sequencial, utilizada em registradores e contadores, não depende de sinais de clock, pois seus estados são definidos exclusivamente pela lógica combinacional, garantindo alta previsibilidade sem temporização explícita.",
+            "enunciado": "Os registradores de propósito geral são exclusivamente dedicados ao armazenamento de contadores de programa, flags de status e endereços de pilha, não sendo utilizados para operações aritméticas.",
             "gabarito": "E"
           },
           {
+            "id": 64,
+            "enunciado": "A unidade de controle de um processador pode ser implementada de forma microprogramada, em que sequências armazenadas determinam o comportamento interno das operações de decodificação e execução.",
+            "gabarito": "C"
+          },
+          {
             "id": 65,
-            "enunciado": "Sistemas embarcados geralmente operam com arquiteturas simplificadas e instruções especializadas, o que favorece economia de energia, baixa latência e elevada confiabilidade, ainda que limitados em termos de flexibilidade geral.",
+            "enunciado": "O Master Boot Record, localizado no primeiro setor físico do disco rígido, contém tanto o código de bootstrap quanto a tabela de partições que identifica as áreas lógicas do disco.",
             "gabarito": "C"
           },
           {
             "id": 66,
-            "enunciado": "A arquitetura x86-64 não oferece suporte nativo a virtualização por hardware, sendo necessária a emulação de instruções privilegiadas para execução de sistemas operacionais convidados com segurança e isolamento.",
+            "enunciado": "Memórias Flash NAND são predominantemente utilizadas como substitutas da RAM principal em sistemas de alto desempenho, devido à sua baixa latência e elevada taxa de operações de escrita.",
             "gabarito": "E"
           },
           {
             "id": 67,
-            "enunciado": "O conjunto de instruções CISC prioriza a compactação do código e flexibilidade, ao custo de maior complexidade de decodificação, o que pode impactar o desempenho em processadores que executam múltiplas instruções por ciclo.",
+            "enunciado": "Processadores com arquitetura CISC tendem a ter conjuntos de instruções mais extensos, incluindo operações complexas executadas diretamente por hardware, diferenciando-se de arquiteturas RISC que privilegiam simplicidade e uniformidade.",
             "gabarito": "C"
           }
         ]
       },
+
       {
         "nome": "BANCO DE DADOS",
         "questoes": [
           {
             "id": 68,
-            "enunciado": "O modelo relacional de dados foi concebido por Edgar F. Codd com base em álgebra relacional e teoria dos conjuntos, oferecendo independência lógica e física dos dados e estrutura tabular que facilita a manipulação e normalização.",
+            "enunciado": "O conceito de consistência eventual em bancos NoSQL implica que, após uma atualização, nem todos os nós participantes da replicação exibem imediatamente o mesmo valor, admitindo atrasos temporários até a convergência final do dado.",
             "gabarito": "C"
           },
           {
             "id": 69,
-            "enunciado": "Em sistemas gerenciadores de banco de dados relacionais (SGBDR), o uso de índices compostos acelera operações de escrita sem comprometer desempenho de leitura, independentemente da cardinalidade dos atributos indexados.",
+            "enunciado": "A operação de junção natural em álgebra relacional produz um resultado que sempre inclui todas as colunas das relações envolvidas, sem eliminação de atributos redundantes compartilhados entre as tabelas.",
             "gabarito": "E"
           },
           {
             "id": 70,
-            "enunciado": "A normalização de dados visa eliminar redundâncias e anomalias em operações de inserção, exclusão e atualização, sendo um processo progressivo representado por formas normais com base em dependências funcionais.",
+            "enunciado": "O PostgreSQL permite a criação de índices parciais, que são aplicados apenas sobre subconjuntos de linhas que atendem a uma condição específica, otimizando consultas seletivas e economizando espaço de armazenamento.",
             "gabarito": "C"
           },
           {
             "id": 71,
-            "enunciado": "Triggers, ao serem executadas automaticamente após comandos DML, devem ser usadas para lógica de negócios e substituem integralmente stored procedures, inclusive em cenários de controle transacional complexo.",
-            "gabarito": "E"
+            "enunciado": "No modelo entidade-relacionamento, relacionamentos ternários representam associações que envolvem exatamente três entidades distintas, exigindo cardinalidade definida para cada participante da relação.",
+            "gabarito": "C"
           },
           {
             "id": 72,
-            "enunciado": "Os níveis de isolamento de transações, definidos pelo padrão SQL ANSI, impactam diretamente na ocorrência de fenômenos como leituras sujas, não repetíveis e fantasmas, sendo o nível serializable o mais restritivo.",
+            "enunciado": "O controle de concorrência multiversão (MVCC) utilizado pelo PostgreSQL impede leituras sujas, mas não oferece isolamento total contra fenômenos como phantom reads, dependendo do nível de isolamento configurado na transação.",
             "gabarito": "C"
           },
           {
             "id": 73,
-            "enunciado": "Os comandos COMMIT e ROLLBACK são usados para consolidar ou desfazer operações DDL e DCL em bancos de dados, garantindo consistência de permissões e estruturas de dados aplicadas por administradores.",
-            "gabarito": "E"
+            "enunciado": "O comando SQL TRUNCATE TABLE remove todas as linhas de uma tabela e libera espaço de armazenamento associado, porém mantém integralmente as definições de restrições e a estrutura da tabela intacta.",
+            "gabarito": "C"
           },
           {
             "id": 74,
-            "enunciado": "Em bancos NoSQL do tipo chave-valor, como Redis, não se aplicam garantias ACID, pois tais sistemas priorizam flexibilidade de esquema e performance em detrimento de consistência e durabilidade.",
+            "enunciado": "Índices do tipo hash são recomendados em PostgreSQL para acelerar buscas de prefixo em campos textuais de alta cardinalidade, já que suportam ordenação eficiente e varreduras por faixa de valores.",
             "gabarito": "E"
           },
           {
             "id": 75,
-            "enunciado": "Consultas SQL complexas que envolvem subconsultas correlacionadas podem ter desempenho inferior a operações com junções explícitas, especialmente quando não otimizadas por índices adequados ou estatísticas atualizadas.",
+            "enunciado": "No modelo relacional, a dependência funcional estabelece que o valor de um atributo determina de forma unívoca o valor de outro, conceito fundamental para a definição de chaves candidatas e normalização.",
             "gabarito": "C"
           },
           {
             "id": 76,
-            "enunciado": "Uma foreign key permite a integridade referencial entre tabelas distintas, sendo automaticamente criada e atualizada pelo SGBD sempre que uma chave primária sofre alteração em sua tabela de origem.",
-            "gabarito": "E"
+            "enunciado": "A cláusula ON DELETE CASCADE aplicada a uma chave estrangeira garante que, ao excluir uma linha da tabela referenciada, todas as linhas dependentes na tabela filha sejam automaticamente removidas.",
+            "gabarito": "C"
           },
           {
             "id": 77,
-            "enunciado": "Transações em banco de dados garantem atomicidade, consistência, isolamento e durabilidade (ACID), sendo fundamentais para manter a integridade em sistemas críticos como contabilidade e operações bancárias.",
-            "gabarito": "C"
-          },
-          {
-            "id": 78,
-            "enunciado": "Bancos orientados a documentos, como MongoDB, utilizam estrutura JSON-like para armazenar dados, possibilitando flexibilidade de esquema e consultas agregadas com alta performance em aplicações distribuídas.",
-            "gabarito": "C"
-          },
-          {
-            "id": 79,
-            "enunciado": "Índices B-tree são ideais apenas para colunas com valores únicos e desaconselhados em colunas que contenham dados ordenados ou de alta cardinalidade, pois introduzem latência nas operações de leitura sequencial.",
+            "enunciado": "O conceito ACID em transações de banco de dados exclui a característica de isolamento, pois esta propriedade é considerada opcional e dependente da configuração específica do motor de banco de dados.",
             "gabarito": "E"
           }
         ]
       },
+
       {
         "nome": "REDES E SEGURANÇA",
         "questoes": [
           {
-            "id": 80,
-            "enunciado": "A utilização do protocolo Telnet em redes corporativas, mesmo em segmentos internos e isolados, é considerada prática segura, pois não transmite dados críticos fora da rede local e é compatível com mecanismos modernos de autenticação baseados em certificados digitais.",
+            "id": 78,
+            "enunciado": "O protocolo ARP é utilizado para mapear endereços IP em endereços MAC na camada de enlace, sendo essencial para comunicação em redes Ethernet IPv4 e dispensável em redes IPv6, que utilizam o protocolo NDP para função equivalente.",
+            "gabarito": "C"
+          },
+          {
+            "id": 79,
+            "enunciado": "O protocolo IPSec atua exclusivamente na camada de aplicação, oferecendo criptografia ponta a ponta sem qualquer integração ao protocolo IP, sendo limitado ao tráfego HTTP e HTTPS.",
             "gabarito": "E"
+          },
+          {
+            "id": 80,
+            "enunciado": "O protocolo SNMP versão 3 inclui recursos de autenticação, privacidade e controle de acesso granular, que não estão presentes nas versões anteriores, tornando-o mais adequado a ambientes corporativos sensíveis.",
+            "gabarito": "C"
           },
           {
             "id": 81,
-            "enunciado": "Firewalls baseados em filtragem de pacotes são capazes de analisar o conteúdo da camada de aplicação de protocolos como HTTP, HTTPS e SMTP, oferecendo proteção equivalente a sistemas de detecção de intrusão com inspeção profunda de pacotes (DPI).",
-            "gabarito": "E"
+            "enunciado": "O NAT (Network Address Translation) permite múltiplos dispositivos em uma rede privada compartilharem um único endereço IP público, traduzindo pacotes de saída e mantendo uma tabela de mapeamento de conexões.",
+            "gabarito": "C"
           },
           {
             "id": 82,
-            "enunciado": "Em redes corporativas que utilizam VLANs, a segmentação lógica promove maior segurança, uma vez que restringe a difusão de broadcast e permite a aplicação de políticas específicas por segmento, reduzindo a superfície de ataque de forma significativa.",
+            "enunciado": "O protocolo HTTPS utiliza o TLS como camada de segurança, permitindo autenticação de servidor e cliente, além de prover confidencialidade e integridade dos dados trafegados.",
             "gabarito": "C"
           },
           {
             "id": 83,
-            "enunciado": "O uso exclusivo de autenticação baseada em login e senha é suficiente para garantir a segurança de serviços expostos à internet, como servidores VPN e sistemas de webmail, dispensando o uso de fatores adicionais de autenticação como tokens ou biometria.",
-            "gabarito": "E"
-          },
-          {
-            "id": 84,
-            "enunciado": "Em ambientes corporativos que empregam Wi-Fi com criptografia WPA2-PSK, o uso de uma senha forte é dispensável, uma vez que o protocolo já oferece proteção robusta contra ataques de força bruta e captura de pacotes por sniffing.",
-            "gabarito": "E"
-          },
-          {
-            "id": 85,
-            "enunciado": "O protocolo HTTPS, ao empregar TLS, assegura confidencialidade e integridade dos dados trafegados entre cliente e servidor, mitigando riscos de interceptação e ataques man-in-the-middle quando corretamente implementado com certificados válidos.",
+            "enunciado": "Em redes Wi-Fi protegidas por WPA2, a utilização de criptografia AES no modo CCMP oferece maior segurança em comparação ao uso de TKIP, que é considerado obsoleto e vulnerável.",
             "gabarito": "C"
           },
           {
+            "id": 84,
+            "enunciado": "O protocolo SMTP é utilizado principalmente para o envio de mensagens de e-mail entre servidores e clientes, enquanto o protocolo POP3 destina-se à recuperação e leitura das mensagens armazenadas em servidor.",
+            "gabarito": "C"
+          },
+          {
+            "id": 85,
+            "enunciado": "O protocolo FTP, em sua forma padrão, oferece autenticação e transferência de dados de forma criptografada, sendo recomendado como solução segura para envio de arquivos sigilosos.",
+            "gabarito": "E"
+          },
+          {
             "id": 86,
-            "enunciado": "A implementação de honeypots em uma rede corporativa pode ser uma estratégia eficaz de segurança ofensiva e defensiva, permitindo identificar padrões de ataque e atrasar ou distrair invasores sem comprometer os ativos reais da organização.",
+            "enunciado": "A topologia estrela em redes locais depende de um ponto central de conexão, geralmente um switch, que interliga todos os dispositivos, facilitando a administração e isolando falhas individuais.",
             "gabarito": "C"
           },
           {
             "id": 87,
-            "enunciado": "A ativação de NAT (Network Address Translation) em um roteador elimina a necessidade de políticas de firewall, pois já garante isolamento completo entre a rede interna e ameaças oriundas da internet pública.",
-            "gabarito": "E"
-          },
-          {
-            "id": 88,
-            "enunciado": "Soluções de Network Access Control (NAC) permitem restringir o acesso à rede com base em critérios como tipo de dispositivo, status de antivírus e políticas corporativas, promovendo um controle mais granular e seguro dos pontos de entrada.",
+            "enunciado": "O protocolo DHCP fornece automaticamente parâmetros de configuração de rede, como endereço IP, máscara de sub-rede, gateway padrão e servidores DNS, reduzindo a necessidade de configuração manual.",
             "gabarito": "C"
           },
           {
-            "id": 89,
-            "enunciado": "Uma rede com configuração de roteadores em modo passivo e ausência de ACLs é suficiente para prevenir ataques de spoofing e hijacking de sessão, desde que o tráfego esteja criptografado com VPN IPsec.",
+            "id": 88,
+            "enunciado": "A criptografia assimétrica utiliza pares de chaves públicas e privadas, sendo a chave privada compartilhada entre as partes para possibilitar o processo de decifragem.",
             "gabarito": "E"
           },
           {
+            "id": 89,
+            "enunciado": "Em redes com VLANs, switches gerenciam domínios de broadcast virtuais, permitindo segmentar tráfego de forma lógica independente da topologia física da infraestrutura.",
+            "gabarito": "C"
+          },
+          {
             "id": 90,
-            "enunciado": "Antivírus convencionais, mesmo atualizados, são eficazes contra ataques de zero-day e ameaças persistentes avançadas (APT), especialmente quando aliados ao uso de firewalls e filtros de conteúdo baseados em palavras-chave.",
+            "enunciado": "O protocolo Telnet provê conexões remotas seguras e criptografadas para administração de sistemas, sendo recomendado em substituição ao SSH para ambientes sensíveis.",
             "gabarito": "E"
           },
           {
             "id": 91,
-            "enunciado": "O uso de protocolos seguros como SFTP e SCP, em substituição ao FTP convencional, reduz significativamente os riscos de exposição de credenciais e dados sensíveis, contribuindo para o fortalecimento da política de segurança da informação.",
+            "enunciado": "A autenticação multifator combina dois ou mais elementos, como algo que o usuário sabe, algo que possui e algo que é, reforçando a segurança contra acessos indevidos.",
             "gabarito": "C"
           },
           {
             "id": 92,
-            "enunciado": "Em um ambiente de rede segmentado por VLANs, ataques de VLAN hopping podem ser mitigados com a configuração adequada de trunking e desabilitação de interfaces não utilizadas, práticas recomendadas pela literatura de segurança.",
+            "enunciado": "O DNSSEC acrescenta assinaturas digitais às zonas DNS, garantindo a integridade e autenticidade das respostas, mitigando ataques de envenenamento de cache.",
             "gabarito": "C"
           },
           {
             "id": 93,
-            "enunciado": "A simples ativação de logs em sistemas operacionais e dispositivos de rede é suficiente para garantir conformidade com normativas de auditoria e detecção de incidentes, dispensando análise e correlação posterior dos eventos registrados.",
+            "enunciado": "O protocolo ICMP é orientado à conexão, garantindo entrega confiável de pacotes de diagnóstico, como echo-request e echo-reply.",
             "gabarito": "E"
           },
           {
             "id": 94,
-            "enunciado": "Implementações de VPN baseadas em SSL oferecem segurança para acesso remoto, mas requerem verificação constante dos certificados e controle rigoroso sobre os dispositivos clientes para evitar comprometimento da rede interna.",
+            "enunciado": "A política de segurança de redes deve, preferencialmente, adotar o princípio de negação por padrão, permitindo apenas comunicações explicitamente autorizadas pelos controles de firewall.",
             "gabarito": "C"
           },
           {
             "id": 95,
-            "enunciado": "O uso de redes comutadas (switches) elimina completamente os riscos de sniffing de pacotes, pois o tráfego entre dispositivos conectados a diferentes portas não pode ser interceptado sem o uso de técnicas avançadas como ARP spoofing.",
-            "gabarito": "E"
-          },
-          {
-            "id": 96,
-            "enunciado": "Ferramentas de varredura como Nmap e Nessus são empregadas exclusivamente por invasores, sendo sua utilização ilegal em qualquer contexto, inclusive em testes autorizados de segurança de redes corporativas.",
-            "gabarito": "E"
-          },
-          {
-            "id": 97,
-            "enunciado": "Uma abordagem de defesa em profundidade inclui o uso coordenado de diferentes camadas de segurança, como firewalls, IDS, autenticação forte, segmentação de rede e criptografia, mitigando vulnerabilidades individuais.",
+            "enunciado": "O IPSec pode operar em modo transporte e em modo túnel, sendo que o modo túnel encapsula o pacote IP inteiro e adiciona novo cabeçalho IP, viabilizando VPNs.",
             "gabarito": "C"
           },
           {
-            "id": 98,
-            "enunciado": "A política de segurança de uma organização pode prescindir da análise de tráfego lateral entre segmentos internos, desde que haja firewall perimetral e controle de acesso físico aos equipamentos de rede.",
-            "gabarito": "E"
+            "id": 96,
+            "enunciado": "O protocolo LDAP é utilizado para consulta e modificação de diretórios, podendo ser empregado em autenticação centralizada de usuários em ambientes corporativos.",
+            "gabarito": "C"
           },
           {
-            "id": 99,
-            "enunciado": "Ao configurar uma rede Wi-Fi empresarial, o uso de SSID oculto e MAC filtering é suficiente para garantir segurança robusta contra invasores externos, dispensando criptografia WPA2 ou WPA3.",
+            "id": 97,
+            "enunciado": "O firewall de camada de aplicação realiza inspeção apenas dos cabeçalhos IP e TCP, sem examinar o conteúdo das requisições, limitando sua capacidade de detectar ataques sofisticados.",
             "gabarito": "E"
           }
         ]
@@ -588,118 +564,123 @@
         "nome": "DESENVOLVIMENTO DE SOFTWARE",
         "questoes": [
           {
+            "id": 98,
+            "enunciado": "No modelo de microserviços, cada serviço é desenvolvido, implantado e escalado de forma independente, comunicando-se com outros serviços geralmente por meio de APIs RESTful ou mensageria assíncrona.",
+            "gabarito": "C"
+          },
+          {
+            "id": 99,
+            "enunciado": "O Scrum define papéis como Product Owner, Scrum Master e Equipe de Desenvolvimento, prevendo ciclos iterativos denominados sprints, ao final dos quais se entrega um incremento potencialmente utilizável.",
+            "gabarito": "C"
+          },
+          {
             "id": 100,
-            "enunciado": "A adoção de práticas DevSecOps exige integração contínua entre desenvolvimento, segurança e operações, com automação de testes estáticos e dinâmicos de segurança durante o pipeline, garantindo detecção precoce de vulnerabilidades e compliance com padrões de segurança da informação.",
+            "enunciado": "O padrão Singleton visa restringir a criação de múltiplas instâncias de uma classe, permitindo acesso global ao mesmo objeto durante toda a execução do sistema.",
             "gabarito": "C"
           },
           {
             "id": 101,
-            "enunciado": "O uso de padrões de projeto como Singleton ou Factory elimina completamente a necessidade de testes de unidade ou integração, pois abstraem a complexidade estrutural, garantindo baixa chance de bugs em runtime.",
+            "enunciado": "O padrão GoF Abstract Factory pertence à categoria estrutural, pois visa encapsular operações complexas de criação de objetos, enquanto o padrão Bridge é classificado como criacional por permitir desacoplamento de abstração e implementação.",
             "gabarito": "E"
           },
           {
             "id": 102,
-            "enunciado": "Em metodologias ágeis, como Scrum ou Kanban, a priorização de backlog deve envolver também stakeholders de segurança e compliance, garantindo que requisitos não funcionais, como privacidade e integridade de dados, sejam considerados desde o início.",
+            "enunciado": "A metodologia Kanban emprega quadros visuais para controle do fluxo de trabalho, permitindo que equipes visualizem o progresso, identifiquem gargalos e priorizem tarefas de forma dinâmica.",
             "gabarito": "C"
           },
           {
             "id": 103,
-            "enunciado": "Testes de mutação, que simulam falhas propositalmente no código, garantem robustez absoluta do sistema, tornando redundantes os testes de integração e aceitação, pois cobrem todos os cenários possíveis de falha.",
-            "gabarito": "E"
-          },
-          {
-            "id": 104,
-            "enunciado": "A definição de interfaces claras e contratos de API bem especificados, com uso de OpenAPI ou Swagger, permite validação automática de payloads e documentação que garante interoperabilidade e facilita auditoria técnica de serviços REST e microsserviços.",
+            "enunciado": "No DevOps, a prática de infraestrutura como código propõe que a configuração de ambientes seja declarada em arquivos versionáveis, tornando reprodutível e auditável o processo de provisionamento.",
             "gabarito": "C"
           },
           {
-            "id": 105,
-            "enunciado": "Asynchronous programming, usando callbacks ou promessas (Promises), inviabiliza completamente o tratamento de exceções e torna imprevisível a consistência do estado do sistema, não devendo ser usada em aplicações críticas.",
+            "id": 104,
+            "enunciado": "O TDD (Test Driven Development) estabelece que a implementação do código preceda a escrita dos testes automatizados, que servem apenas como verificação complementar.",
             "gabarito": "E"
           },
           {
+            "id": 105,
+            "enunciado": "O HTTP/2 permite multiplexar múltiplas requisições simultâneas sobre uma única conexão TCP persistente, reduzir latência com priorização de streams e compactar cabeçalhos via HPACK.",
+            "gabarito": "C"
+          },
+          {
             "id": 106,
-            "enunciado": "A adoção de testes de segurança automatizados, como SAST (Static Application Security Testing) e DAST (Dynamic Application Security Testing), contribui para identificação precoce de falhas como SQL Injection, XSS e CSRF, fortalecendo a segurança do ciclo de vida do software.",
+            "enunciado": "O Kubernetes orquestra contêineres agrupando-os em pods, que são instâncias mínimas de execução, e oferece mecanismos nativos de escalonamento automático, balanceamento de carga e recuperação de falhas.",
             "gabarito": "C"
           },
           {
             "id": 107,
-            "enunciado": "A técnica de code review conduzida por pares pode eliminar completamente a necessidade de ferramentas automatizadas de análise de código, pois revisores humanos identificam todas as vulnerabilidades potenciais e questões de performance.",
-            "gabarito": "E"
+            "enunciado": "O padrão Composite viabiliza tratamento uniforme de objetos individuais e composições de objetos em estruturas hierárquicas, permitindo operações recursivas sobre toda a árvore de elementos.",
+            "gabarito": "C"
           },
           {
             "id": 108,
-            "enunciado": "O uso de containers (Docker, Kubernetes) na cadeia de desenvolvimento assegura replicabilidade exata do ambiente de produção, favorecendo testes de integração fiéis às condições reais de execução, reduzindo defeitos em ambientes heterogêneos.",
+            "enunciado": "No desenvolvimento seguro, recomenda-se validar entradas de usuário, atualizar dependências vulneráveis e utilizar criptografia forte, práticas que mitigam riscos como injeção de código e exposição de dados.",
             "gabarito": "C"
           },
           {
             "id": 109,
-            "enunciado": "A prática de testes de carga em ambientes de homologação não reflete a performance real de produção, mesmo usando dados sintéticos, tornando os testes inócuos para estimativas de capacidade em sistemas empresariais críticos.",
+            "enunciado": "No paradigma RESTful, as APIs são tipicamente stateful, mantendo contexto de sessão no servidor entre múltiplas requisições do cliente.",
             "gabarito": "E"
           },
           {
             "id": 110,
-            "enunciado": "A utilização de frameworks de autenticação federada, como OAuth2/OpenID Connect, deve sempre ser combinada com uso de certificados TLS válidos, logs de eventos e mecanismos de rotação de tokens para garantir segurança e rastreabilidade em arquiteturas distribuídas.",
+            "enunciado": "O Extreme Programming (XP) enfatiza práticas como desenvolvimento orientado a testes, programação em par, integração contínua e entregas frequentes com foco na adaptação ao feedback do cliente.",
             "gabarito": "C"
           },
           {
             "id": 111,
-            "enunciado": "A documentação técnica em repositório de código fonte (ex: README.md) é suficiente para garantir segurança e compliance de software, dispensando a adoção de políticas formais de versionamento, controle de acesso e revisão por auditoria externa.",
-            "gabarito": "E"
-          },
-          {
-            "id": 112,
-            "enunciado": "A arquitetura baseada em microsserviços, combinada com monitoramento em tempo real e circuit breakers, favorece isolamento de falhas, escalabilidade e resiliência de sistemas, mas exige controle rigoroso de versionamento e compatibilidade entre serviços.",
+            "enunciado": "O Continuous Integration (CI) pressupõe que cada alteração de código seja integrada e testada de forma automática em repositório central, minimizando erros de integração tardia.",
             "gabarito": "C"
           },
           {
-            "id": 113,
-            "enunciado": "O uso de técnicas de programação orientada a aspectos (AOP) permite interceptar chamadas e tratar regras transversais com zero impacto no desempenho, eliminando necessidade de testes de performance.",
+            "id": 112,
+            "enunciado": "No design orientado a objetos, o princípio de responsabilidade única (SRP) estabelece que uma classe deve possuir múltiplas razões para sofrer modificações, aumentando sua reutilização e coesão.",
             "gabarito": "E"
+          }
+        ]
+      },
+      {
+        "nome": "GOVERNANÇA DE TI E LEGISLAÇÃO APLICADA",
+        "questoes": [
+          {
+            "id": 113,
+            "enunciado": "A Instrução Normativa SGD/ME nº 94/2022 estabelece diretrizes para contratação de soluções de tecnologia da informação na Administração Pública Federal, incluindo critérios de planejamento, gerenciamento de riscos e alinhamento estratégico.",
+            "gabarito": "C"
           },
           {
             "id": 114,
-            "enunciado": "A adoção de pipelines de CI/CD com validações automatizadas, análise de vulnerabilidades de dependências (SCA) e testes de integração contínua é essencial para garantir qualidade e segurança do software em cada commit e evitar regressões em produção.",
+            "enunciado": "De acordo com o ITIL v4, a prática de gestão de incidentes busca restaurar a operação normal do serviço com a maior celeridade possível, minimizando impactos nos processos de negócio e assegurando níveis acordados de qualidade.",
             "gabarito": "C"
           },
           {
             "id": 115,
-            "enunciado": "O uso de infraestrutura como código (IaC) com ferramentas como Terraform ou Ansible garante provisionamento automatizado e versionado de infraestrutura, mas sem validações e testes robustos podem propagar configurações inseguras ou inconsistentes para ambientes importantes.",
-            "gabarito": "C"
-          }
-        ]
-      },
-      {
-        "nome": "GOVERNANÇA DE TI E LEGISLAÇÃO APLICADA. INSTRUÇÃO NORMATIVA SGD/ME Nº 94/2022.",
-        "questoes": [
-          {
-            "id": 116,
-            "enunciado": "A IN SGD/ME nº 94/2022 estabelece que o planejamento de contratações de soluções de tecnologia da informação deve estar alinhado aos objetivos estratégicos institucionais, sendo obrigatório justificar tecnicamente a escolha da solução proposta, incluindo análise de riscos e impacto no negócio.",
+            "enunciado": "O COBIT 2019 estabelece que governança e gerenciamento de TI são papéis integrados e complementares, devendo atuar de forma coordenada na geração de valor, alinhamento estratégico e mitigação de riscos.",
             "gabarito": "C"
           },
           {
-            "id": 117,
-            "enunciado": "Segundo a IN SGD/ME nº 94/2022, não há exigência de que a contratação de soluções de TI considere a observância dos princípios da economicidade, eficiência e sustentabilidade, bastando o atendimento ao requisito funcional mínimo estabelecido pela área requisitante.",
+            "id": 116,
+            "enunciado": "A LGPD (Lei Geral de Proteção de Dados) aplica-se exclusivamente aos órgãos públicos federais, não alcançando empresas privadas ou entidades estrangeiras que tratem dados pessoais de cidadãos brasileiros.",
             "gabarito": "E"
-          }
-        ]
-      },
-      {
-        "nome": "LICITAÇÕES À LUZ DA LEI 14.133/2021 E MARCO CIVIL DA INTERNET",
-        "questoes": [
+          },
+          {
+            "id": 117,
+            "enunciado": "No gerenciamento de riscos de TI, fatores como impacto potencial, probabilidade de ocorrência e tolerância ao risco organizacional devem ser considerados na definição de respostas estratégicas.",
+            "gabarito": "C"
+          },
           {
             "id": 118,
-            "enunciado": "A nova Lei de Licitações (14.133/2021) exige que contratações públicas de soluções em nuvem adotem critérios objetivos de julgamento e integrem requisitos de conformidade com a LGPD, segurança da informação e rastreabilidade das evidências digitais, sob pena de nulidade contratual.",
+            "enunciado": "Segundo o COBIT 2019, o componente Information Flow and Communication visa garantir que informações relevantes sejam compartilhadas de forma tempestiva, precisa e eficaz em todos os níveis da organização.",
             "gabarito": "C"
           },
           {
             "id": 119,
-            "enunciado": "O Marco Civil da Internet permite expressamente que dados armazenados por provedores estrangeiros sejam acessados diretamente por autoridades nacionais sem ordem judicial, desde que haja interesse público envolvido e a cooperação internacional tenha sido previamente solicitada.",
+            "enunciado": "A prática de gestão de mudanças emergenciais, de acordo com ITIL v4, exige que todas as mudanças sejam submetidas a avaliação prévia pelo CAB (Change Advisory Board), independentemente de seu impacto no serviço.",
             "gabarito": "E"
           },
           {
             "id": 120,
-            "enunciado": "A Lei 14.133/2021 obriga a adoção de matriz de riscos nos contratos de tecnologia da informação, incluindo indicadores de desempenho e mecanismos de penalização proporcional, especialmente em soluções críticas como armazenamento e processamento em nuvem.",
+            "enunciado": "O ciclo de vida de dados pessoais, conforme boas práticas de governança, deve observar princípios como finalidade, minimização e retenção limitada, alinhando-se à LGPD e normas de segurança da informação.",
             "gabarito": "C"
           }
         ]
@@ -707,3 +688,4 @@
     ]
   }
 }
+
